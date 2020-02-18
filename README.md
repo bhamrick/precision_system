@@ -98,7 +98,8 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 ## After 1♥️/1♠️
 
 * 1♥️-1♠️ 4+♠️s, one round forcing
-* 1NT\* one round forcing
+* 1NT\* Semiforcing. Opener passes with the 11-13 5332, bids 4 card side suit or
+  rebids 6 card major otherwise.
 * 2/1 responses are game forcing and natural
 * If responder is a passed hand, all responses are nonforcing.
 * 2♥️/2♠️ Invitational with 3+ card support
