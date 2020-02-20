@@ -87,6 +87,8 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 1♠️ 4+♠️s, one round forcing
 * 1NT Nonforcing
 * 2♣️ Game forcing, denies 4 card major.
+* 2♦️ Constructive raise
+* 3♦️ Preemptive raise
 * If responder is a passed hand, all responses are nonforcing.
 
 ## After 1♥️/1♠️
@@ -109,7 +111,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
         * Other suits: Short suit game try (2NT! asks for spades)
             * Responder bids 4♥️/4♠️ if they do not have wasted values in the suit
               bid, and 3♥️/3♠️ otherwise.
-* 3♥️/3♠️ Game forcing raise, slam seeking.
+* 3♥️/3♠️ Preemptive raise. Less than invitational with 4+ card support.
 * 4♥️/4♠️ To play
 
 ## After 1NT or 1♣️!-1♦️!-1NT
