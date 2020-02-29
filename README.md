@@ -3,6 +3,7 @@
 * Open light. Bidding is more fun than not bidding, and also comes with
   some preemptive benefits. Even playing standard, 11 point hands sometimes get
   upgraded to pretend to be a 13 count. We just systematically open them.
+  * However, light is not trash. E.g. 10 point balanced hand is not worth an upgrade.
 * Establish a captain of the auction quickly. For openings other than 1♣️,
   responder is immediately the captain as opener's range is limited.
   * If the auction goes P-1♣️-positive response, then responder is known to be
