@@ -74,12 +74,16 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 3NT 24+ balanced, stayman and transfers available
 * 1♥️ 8+ 5+♥️s
 * 1♠️ 8+ 5+♠️s
-* 1NT 8+ balanced
+* 1NT 8-11 balanced
 * 2♣️ 8+ 5+♣️s
 * 2♦️ 8+ 5+♦️s
 * 2♥️! 8+ 4441 singleton heart
+    * After any of the 4441 responses, a bid below game by opener creates
+      agreement on the strain and responder will bid according to SRAAACA.
 * 2♠️! 8+ 4441 singleton spade
-* 2NT! 8+ 4441 singleton minor
+* 2NT! 12+ balanced
+* 3♣️ 8+ 4441 singleton club
+* 3♦️ 8+ 4441 singleton diamond
 
 ## After 1♦️\*
 
