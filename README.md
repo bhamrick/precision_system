@@ -173,7 +173,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 2♦️! Forcing, invitational or better
     * 2♥️ 4♥️s, minimum
     * 2♠️ 4♠️s, minimum
-    * 2NT! Minimum, no shortness, no 4 card major
+    * 2NT! Minimum, no 4 card major
     * 3♣️! Maximum with shortness, no 4 card major
         * 3♦️! Ask for shortness
             * 3♥️! Short hearts
