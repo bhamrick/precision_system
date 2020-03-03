@@ -83,8 +83,8 @@ all cases, but for the 2NT bids we use Puppet Stayman.
       agreement on the strain and responder will bid according to SRAAACA.
 * 2♠️! 8+ 4441 singleton spade
 * 2NT! 12+ balanced
-* 3♣️ 8+ 4441 singleton club
-* 3♦️ 8+ 4441 singleton diamond
+* 3♣️! 8+ 4441 singleton club
+* 3♦️! 8+ 4441 singleton diamond
 
 ## After 1♦️\*
 
