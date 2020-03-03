@@ -90,7 +90,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 1♥️ 4+♥️s, one round forcing
 * 1♠️ 4+♠️s, one round forcing
 * 1NT Nonforcing
-* 2♣️ Game forcing, denies 4 card major.
+* 2♣️! Artificial game forcing. May have 4 card majors. Opener bids 4 card suits up the line.
 * 2♦️ Constructive raise
 * 3♦️ Preemptive raise
 * If responder is a passed hand, all responses are nonforcing.
