@@ -95,10 +95,23 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 2♦️ Constructive raise
 * 3♦️! Preemptive raise
 * If responder is a passed hand, all responses are nonforcing.
+* After a 1♦️-1M-1NT sequence showing 11-13 balanced,
+  [2 way checkback](https://www.youtube.com/watch?v=5_RD8ycgRT8) is on
+    * 2♣️! Weak with diamonds or various invitational hands
+        * 2♦️! Forced relay, then responder clarifies
+            * Pass Weak with diamonds
+            * 2M Invitational with 5+M
+            * 2OM Invitational with 4+OM
+    * 2♦️! Artificial game forcing. Natural continuations, favoring lowest bids.
+        * 2M 3 card support
+        * 2OM 4 card unbid major
+    * 2M Pulling for partscore, less than invitational values
 
 ## After 1♥️/1♠️
 
 * 1♥️-1♠️ 4+♠️s, one round forcing
+    * After 1♥️-1♠️-1NT, 2 way checkback is on with similar structure as after
+      1♦️-1M-1NT
 * 1NT\* Semiforcing. Opener passes with the 11-13 5332, bids 4 card side suit or
   rebids 6 card major otherwise.
 * 2/1 responses are game forcing and natural
