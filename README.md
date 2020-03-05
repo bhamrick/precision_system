@@ -118,26 +118,26 @@ all cases, but for the 2NT bids we use Puppet Stayman.
             * Responder bids 4♥️/4♠️ if they do not have wasted values in the suit
               bid, and 3♥️/3♠️ otherwise.
 * 2NT! Game forcing raise with 4+ card support, slam seeking.
-    * 3♣️ Minimum without a void
-        * 3♦️ Asks (Compare these responses to the immediate response to 2NT with
+    * 3♣️! Minimum without a void
+        * 3♦️! Asks (Compare these responses to the immediate response to 2NT with
           a max)
-            * 3♥️ Singleton, no long side suit
-                * 3♠️ Asks where (use 4♥️ for spades when hearts are trump)
+            * 3♥️! Singleton, no long side suit
+                * 3♠️! Asks where (use 4♥️! for spades when hearts are trump)
             * 3♠️ Unused
-            * 3NT No singleton or long side suit
-            * 4♣️ 5+ card club suit
-            * 4♦️ 5+ card diamond suit
-            * 4♥️ 5+ cards in the other major
-    * 3♦️ Minimum with a void
-        * 3♥️ Asks where (use 3♠️ for the other major)
-    * 3♥️ Maximum with a singleton, no void or long side suit
-        * 3♠️ Asks where (use 4♥️ for spades when hearts are trump)
-    * 3♠️ Maximum with a void
-        * 3NT Asks where (use 4♥️ for spades when hearts are trump)
-    * 3NT Maximum with no singleton, void, or long side suit
-    * 4♣️ Maximum, 5+ card club suit
-    * 4♦️ Maximum, 5+ card diamond suit
-    * 4♥️ Maximum, 5+ cards in the other major
+            * 3NT! No singleton or long side suit
+            * 4♣️! 5+ card club suit
+            * 4♦️! 5+ card diamond suit
+            * 4♥️! 5+ cards in the other major
+    * 3♦️! Minimum with a void
+        * 3♥️! Asks where (use 3♠️! for the other major)
+    * 3♥️! Maximum with a singleton, no void or long side suit
+        * 3♠️! Asks where (use 4♥️! for spades when hearts are trump)
+    * 3♠️! Maximum with a void
+        * 3NT! Asks where (use 4♥️! for spades when hearts are trump)
+    * 3NT! Maximum with no singleton, void, or long side suit
+    * 4♣️! Maximum, 5+ card club suit
+    * 4♦️! Maximum, 5+ card diamond suit
+    * 4♥️! Maximum, 5+ cards in the other major
 * 3♥️/3♠️ Preemptive raise. Less than invitational with 4+ card support.
 * 4♥️/4♠️ To play
 
