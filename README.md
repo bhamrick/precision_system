@@ -93,7 +93,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 1NT Nonforcing
 * 2♣️! Artificial game forcing. May have 4 card majors. Opener bids 4 card suits up the line.
 * 2♦️ Constructive raise
-* 3♦️ Preemptive raise
+* 3♦️! Preemptive raise
 * If responder is a passed hand, all responses are nonforcing.
 
 ## After 1♥️/1♠️
@@ -138,8 +138,8 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 4♣️! Maximum, 5+ card club suit
     * 4♦️! Maximum, 5+ card diamond suit
     * 4♥️! Maximum, 5+ cards in the other major
-* 3♥️/3♠️ Preemptive raise. Less than invitational with 4+ card support.
-* 4♥️/4♠️ To play
+* 3♥️!/3♠️! Preemptive raise. Less than invitational with 4+ card support.
+* 4♥️!/4♠️! To play, no slam interest.
 
 ## After 1NT or 1♣️!-1♦️!-1NT
 
