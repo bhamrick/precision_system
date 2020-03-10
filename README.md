@@ -377,9 +377,17 @@ Example 3: After 1♣️-1♥️-3♦️!
 * RKC 1430
     * Jump to 4NT after a suit-showing bid without an agreed denomination
       implicitly agrees the suit just shown.
-    * After response, step up is queen ask
-        * Cheapest trump bid = no queen
-        * Others = queen + king in shown suit
-        * Notrump = queen + no outside king
+    * After response:
+        * Next step other than the trump suit is queen ask
+            * Cheapest trump bid = no queen
+            * Others = queen + king in shown suit
+            * Notrump = queen + no outside king
+        * 5NT is king ask, guarantees all relevant key cards
+            * Responder bids cheapest king. A higher suit below the agreed trump
+              can then be bid to ask responder to bid 7 with that king.
+        * Directly bidding 6 of a suit lower than trump asks responder to bid 7
+          with the queen of that suit and 6 otherwise. If space permits,
+          responder may bid 6 of a higher suit still below the trump suit to
+          deny the asked queen but show another queen.
     * DOPI over interference (Double = 0 or 3, Pass = 1 or 4, Step = 2 or 5 w/o
       queen, 2 steps = 2 or 5 w/ queen, assuming space permits)
