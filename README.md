@@ -361,16 +361,40 @@ Example 2: After 1♣️-1♥️-1♠️-2♠️, opener is 16+ so the steps are
 * 3♥️! 22-24
 * And so on
 
-If agreement was made by a splinter, values should be adjusted to account for
-wasted values in the short suit, and there is an extra step for hands that get
-adjusted to sub-minimum. 
+Exception: If agreement was made by a splinter, it is better for the hand
+opposite the shown shortness to be captain for better bidding accuracy. Relaying
+asks for strength, other bids outside the trump suit are directly asking about
+help in that suit, and notrump asks for a cue bid (4NT remains keycard). An ask
+in the splinter suit is for clarity on the shortness, whether immediately or
+after a relay for strength.
 
-Example 3: After 1♣️-1♥️-3♦️!
+When shortness is shown, 3NT is no longer considered an offer to play.
 
-* 3♥️! Worse than 8
-* 3♠️! 8-10
-* 3NT! 10-12
-* And so on
+Example 3: After 1♣️!-1♥️-3♦️!
+
+* 3♥️! Asks for strength
+    * 3♠️! 16-18
+    * 3NT! 18-20
+    * And so on
+* 3♠️! Asks about spade holding
+* 3NT! Demands cue bid
+* 4♣️! Asks about club holding
+* 4♦️! Asks about shortness
+    * 4♥️! Singleton
+    * 4♠️! Void
+
+If the splintering player is already limited, then the strength relay is
+just a regular asking bid.
+
+Example 4: After P-1♣️!-1♥️-1♠️-3♣️!, note that the initial pass limits responder to 8-10.
+
+* 3♦️! Asks about diamond holding
+* 3♥️! Asks about heart holding
+* 3NT! Demands cue bid
+* 4♣️! Asks about shortness
+    * 4♦️! Singleton
+    * 4♥️! Void
+* 4♠️ Signoff
 
 # Miscellaneous
 
