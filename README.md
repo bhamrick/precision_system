@@ -93,6 +93,9 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 1NT Nonforcing
 * 2♣️! Artificial game forcing. May have 4 card majors. Opener bids 4 card suits up the line.
 * 2♦️ Constructive raise
+* 2♥️! Weak jump-shift: Less than constructive values and long hearts
+* 2♠️! Weak jump-shift: Less than constructive values and long spades
+* 3♣️! Weak jump-shift: Less than constructive values and long clubs
 * 3♦️! Preemptive raise
 * If responder is a passed hand, all responses are nonforcing.
 * After a 1♦️-1M-1NT sequence showing 11-13 balanced,
@@ -151,6 +154,9 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 4♣️! Maximum, 5+ card club suit
     * 4♦️! Maximum, 5+ card diamond suit
     * 4♥️! Maximum, 5+ cards in the other major
+* 2♠️!/3♥️! Weak jump shift: Less than constructive values with the suit bid.
+* 3♣️! Weak jump shift: Less than constructive values and long clubs.
+* 3♦️! Weak jump shift: Less than constructive values and long clubs.
 * 3♥️!/3♠️! Preemptive raise. Less than invitational with 4+ card support.
 * 4♥️!/4♠️! To play, no slam interest.
 
