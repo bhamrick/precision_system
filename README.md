@@ -112,8 +112,10 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 1♥️-1♠️ 4+♠️s, one round forcing
     * After 1♥️-1♠️-1NT, 2 way checkback is on with similar structure as after
       1♦️-1M-1NT
-* 1NT\* Semiforcing. Opener passes with the 11-13 5332, bids 4 card side suit or
-  rebids 6 card major otherwise.
+* 1NT\* Semiforcing. Opener may pass with 11-13 balanced or semibalanced, bids 4
+  card side suit or rebids 6 card major otherwise. A side suit bid of 2♠️ should
+  only be made with either near-max values or 6/5+ distribution (minimum 5/5
+  hands would open 1♠️).
 * 2/1 responses are game forcing and natural
 * If responder is a passed hand, all responses are nonforcing.
 * 2♥️/2♠️ Invitational with 3+ card support
