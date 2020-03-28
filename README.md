@@ -32,15 +32,15 @@ opener's rebid are delayed alerts instead.
 # Openings
 
 * 1♣️! 16+ unbalanced or 17+ balanced (except 2NT opening hands)
-* 1♦️\* 11-15 catchall (always 3+♦️s or balanced, always 2+♦️s)
-* 1♥️ 11-15 5+♥️s
-* 1♠️ 11-15 5+♠️s
+* 1♦️\* Good 10-15 catchall (always 3+♦️s or balanced, always 2+♦️s)
+* 1♥️ Good 10-15 5+♥️s
+* 1♠️ Good 10-15 5+♠️s
 * 1NT\* 14-16 balanced. Balanced hands including 5 card majors are opened 1NT if
   they are in the appropriate point range.
-* 2♣️! 11-15 6+♣️s
-* 2♦️! 11-15, one of 3=4=1=5, 4=3=1=5, 4=4=0=5, or 4=4=1=4
-* 2♥️ Weak, generally 5-10
-* 2♠️ Weak, generally 5-10
+* 2♣️! Good 10-15 6+♣️s
+* 2♦️! Good 10-15, one of 3=4=1=5, 4=3=1=5, 4=4=0=5, or 4=4=1=4
+* 2♥️ Weak, generally 5-bad 10
+* 2♠️ Weak, generally 5-bad 10
 * 2NT 20-21 balanced
 * 3NT! Gambling (Solid 7 card minor suit e.g. AKQxxxx, minimum opening strength
   or less)
