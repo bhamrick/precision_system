@@ -124,6 +124,21 @@ all cases, but for the 2NT bids we use Puppet Stayman.
         * 2M 3 card support
         * 2OM 4 card unbid major
     * 2M Pulling for partscore, less than invitational values
+* After 1♦️-1M-2M, Kokish game tries are available for invitational hands, but
+  generally discouraged as they give a significant amount of information to the
+  defense.
+    * Next step (1♦️-1♥️-2♥️-2♠️! or 1♦️-1♠️-2♠️-2NT!): Unspecified help suit game try.
+        * Opener bids the cheapest suit where they have help (generally first or
+          second round control). If the auction was 1♦️-1♥️-2♥️-2♠️! then 2NT! shows
+          the spade help and is considered the cheapest. Afterward, responder
+          can sign off in 3♥️/3♠️ or 4♥️/4♠️, or bid another suit asking opener to
+          bid game if they have a first or second control in that suit.
+        * Opener is also free to bid game directly if they have help in every
+          suit or maximal values.
+    * Other suits: Short suit game try (2NT! asks for spades)
+        * Opener reevaluates their hand in the context of shortness and decides
+          whether to bid game or not. Maximal hands may choose to play game even
+          with wasted values.
 
 ## After 1♥️/1♠️
 
@@ -141,12 +156,13 @@ all cases, but for the 2NT bids we use Puppet Stayman.
       Kokish game tries are available (description below). However, they are
       discouraged as they will often be more valuable tips for the defense than
       value for us finding the right contract.
-        * Next step (1♥️-2♥️-2♠️! or 1♠️-2♠️-2NT!): Unspecified long suit game try.
-            * Responder bids the cheapest first or second round control. If the
-              auction was 1♥️-2♥️-2♠️! then 2NT! shows the spade control and is
-              considered the cheapest. Afterward, opener can sign off in
-              3♥️/3♠️ or 4♥️/4♠️, or bid another suit asking responder to bid
-              game if they have a first or second control in that suit.
+        * Next step (1♥️-2♥️-2♠️! or 1♠️-2♠️-2NT!): Unspecified help suit game try.
+            * Responder bids the cheapest suit where they have help (generally
+              first or second round control). If the auction was 1♥️-2♥️-2♠️! then
+              2NT! shows the spade control and is considered the cheapest.
+              Afterward, opener can sign off in 3♥️/3♠️ or 4♥️/4♠️, or bid another
+              suit asking responder to bid game if they have a first or second
+              control in that suit.
         * Other suits: Short suit game try (2NT! asks for spades)
             * Responder bids 4♥️/4♠️ if they do not have wasted values in the suit
               bid, and 3♥️/3♠️ otherwise.
