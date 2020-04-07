@@ -75,14 +75,29 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 3NT 24+ balanced, stayman and transfers available
 * 1♥️ 8+ 5+♥️s
 * 1♠️ 8+ 5+♠️s
-* 1NT 8-11 balanced
+* 1NT! 8-11 or 14+ balanced. After this opening, the first SRAAACA range is
+  8-11, then 14-16, etc.
+    * 2♣️! Asks for 4 card major. To keep auctions lower, use transfer responses:
+        * 2♦️! 4♥️s
+        * 2♥️! 4♠️s
+        * 2♠️! No 4 card major
+            * 2NT "sets" notrump and asks for SRAAACA.
+        * Opener can complete the transfer to confirm the fit, which initiates
+          SRAAACA, or bid another suit naturally to ask for support.
 * 2♣️ 8+ 5+♣️s
 * 2♦️ 8+ 5+♦️s
 * 2♥️! 8+ 4441 singleton heart
     * After any of the 4441 responses, a bid below game by opener creates
       agreement on the strain and responder will bid according to SRAAACA.
 * 2♠️! 8+ 4441 singleton spade
-* 2NT! 12+ balanced
+* 2NT! 12-13 balanced
+    * 3♣️! Asks for 4 card major. Similar to the 1NT response, use
+      transfer respones here as well.
+        * 3♦️! 4♥️s
+        * 3♥️! 4♠️s
+        * 3♠️! No 4 card major
+        * Completing the transfer at 3 level shows slam interest. Opener should
+          jump to game with minimum hands and a fit.
 * 3♣️! 8+ 4441 singleton club
 * 3♦️! 8+ 4441 singleton diamond
 
