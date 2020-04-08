@@ -507,3 +507,21 @@ Example 4: After P-1♣️!-1♥️-1♠️-3♣️!, note that the initial pass
           deny the asked queen but show another queen.
     * DOPI over interference (Double = 0 or 3, Pass = 1 or 4, Step = 2 or 5 w/o
       queen, 2 steps = 2 or 5 w/ queen, assuming space permits)
+* Gerber
+    * Jump from 1NT or 2NT openings or pseudo-openings to 4♣️ for Ace ask.
+      Responses are Blackwood-style.
+        * Example: After 1♣️-1♦️-1NT, 4♣️ is Gerber.
+            * 4♦️ shows 0 or 4
+            * 4♥️ shows 1
+            * 4♠️ shows 2
+            * 4NT shows 3
+        * Example: After 1♦️-1♠️-1NT, 4♣️ is again Gerber.
+        * After the response, 5♣️ guarantees all aces and asks for the cheapest
+          king.
+    * Gerber is off if there is a bid from the opponent after the notrump
+      bidder.
+        * Example: After 1NT-(2♥️), 4♣️ is a weak preemptive bid, and not Gerber.
+    * Generally, Gerber should be avoided. It should only be used when the
+      partnership clearly has points for slam and just wants to verify that
+      there are not two missing aces. Otherwise, other slam seeking methods will
+      be more appropriate.
