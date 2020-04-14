@@ -104,7 +104,18 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 ## After 1♦️\*
 
 * 1♥️ 4+♥️s, one round forcing
-* 1♠️ 4+♠️s, one round forcing
+    * 1♠️ 4♠️s, unbalanced
+    * 1NT 11-13 balanced, may contain 4♠️s
+    * 2♣️ 5/4+ in the minors, unbalanced. Either minor may be longer.
+    * 2♦️ 6+♦️s without significant extra strength.
+    * 2♥️ 4♥️s any strength
+* 1♠️ 4+♠️s, one round forcing. With equal length spades and hearts and less than
+  game forcing values, responder starts with 1♠️.
+    * 1NT 11-13 balanced
+    * 2♣️ 5/4+ in the minors, unbalanced. Either minor may be longer.
+    * 2♦️ 6+♦️s without significant extra strength.
+    * 2♥️ 4♥️s unbalanced
+    * 2♠️ 4♠️s any strength
 * 1NT Nonforcing
 * 2♣️! Artificial game forcing. May have 4 card majors. Opener bids 4 card suits up the line.
 * 2♦️ Constructive raise
@@ -124,9 +135,18 @@ all cases, but for the 2NT bids we use Puppet Stayman.
         * 2M 3 card support
         * 2OM 4 card unbid major
     * 2M Pulling for partscore, less than invitational values
+* Checkback also applies after 1♦️-1♥️-1♠️, with one addition
+    * 1NT Nonforcing and less than invitational. With a hand unsuitable for
+      playing 1NT, opener bids 2♣️ with a minor two-suiter or 2♦️ with long
+      diamonds.
+* After 1♦️-1♥️-2m, opener has shown an unbalanced hand and denied 4 spades.
+  Responder's 2♠️ bid is an artifical game force, and opener should continue to
+  describe their hand, especially showing 3 card support for a major,
+  prioritizing hearts.
 * After 1♦️-1M-2M, Kokish game tries are available for invitational hands, but
   generally discouraged as they give a significant amount of information to the
-  defense.
+  defense. Despite being called game tries, they may also be used to investigate
+  slam as opener is forced to bid whether they are accepting or not.
     * Next step (1♦️-1♥️-2♥️-2♠️! or 1♦️-1♠️-2♠️-2NT!): Unspecified help suit game try.
         * Opener bids the cheapest suit where they have help (generally first or
           second round control). If the auction was 1♦️-1♥️-2♥️-2♠️! then 2NT! shows
