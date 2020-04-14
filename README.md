@@ -378,17 +378,22 @@ Here "single suit" means 6+ cards, two suiter means 5-4 or better.
     * 2♦️! Ask for major
 * 2♦️! Diamonds and a major
     * 2♥️ Pass or correct to 2♠️
-* 2♥️ 6+♥️s
-* 2♠️ 6+♠️s
+* 2♥️ Natural (5+♥️s)
+* 2♠️ Natural (5+♠️s)
 * 2NT! Both minors, generally 5/5 or better
 
-### Against weak (13 or lower included in the range) - WORK IN PROGRESS
+### Against weak (13 or lower included in the range)
 
-* X! 14+ points, can be passed for penalty
+* X! 14+ points, can be passed for penalty. Otherwise, natural continuations.
 * 2♣️! Spades and either hearts or clubs
+    * 2♦️! Forcing, bid 2♥️ with hearts or 2♠️ with clubs
+    * 2♥️ Pass with hearts or correct to 2♠️ with clubs
+    * 2♠️ To play
 * 2♦️! Diamonds and a major
-* 2♥️ 6+♥️s
-* 2♠️ 6+♠️s
+    * 2♥️ Pass or correct to 2♠️
+* 2♥️ Natural (5+♥️s)
+* 2♠️ Natural (5+♠️s)
+* 2NT! Both minors, generally 5/5 or better
 
 # Bidding during game forcing auctions
 
