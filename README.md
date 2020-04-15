@@ -201,9 +201,18 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 2♠️ 4+♠️s
 * 2♦️\* Jacoby transfer to ♥️
 * 2♥️\* Jacoby transfer to ♠️
-* 2♠️! Size ask
-    * 2NT! minimum
-    * 3♣️! maximum
+* 2♠️! Size ask or transfer to clubs
+    * 2NT! Minimum
+        * 3♣️ Says responder had clubs and wants to sign off
+    * 3♣️! Maximum
+* 2NT! Transfer to diamonds. Opener responds similar to a size ask despite the
+  fact that responder always has the diamonds, to assist in judgment if looking
+  for slam.
+    * 3♣️! Bad hand/support
+        * 3♦️ Sign off
+        * Others are game forcing
+    * 3♦️! Good hand and support
+        * Further bids by responder are game forcing
 * 3♣️! Game forcing puppet stayman
     * 3♦️! No 5 card major, have 4 card major
         * 3♥️! Is the major spades?
