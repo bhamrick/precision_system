@@ -118,6 +118,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 2♠️ 4♠️s any strength
 * 1NT Nonforcing
 * 2♣️! Artificial game forcing. May have 4 card majors. Opener bids 4 card suits up the line.
+  * After opener has shown a balanced hand and no fit, opener's new suits ask for a stopper to bid a notrump game.
 * 2♦️ Constructive raise
 * 2♥️! Weak jump-shift: Less than constructive values and long hearts
 * 2♠️! Weak jump-shift: Less than constructive values and long spades
@@ -170,6 +171,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
   only be made with either near-max values or 6/5+ distribution (minimum 5/5
   hands would open 1♠️).
 * 2/1 responses are game forcing and natural
+  * 1M-2m-2NT shows a balanced hand with no 4 card side suit. New suits from opener ask for help; bid 3NT if responder has a stop in that suit, otherwise a suited game.
 * If responder is a passed hand, all responses are nonforcing.
 * 2♥️/2♠️ Invitational with 3+ card support
     * Opener generally passes or bids 4♥️/4♠️ directly. For borderline hands,
