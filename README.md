@@ -559,3 +559,29 @@ Example 4: After P-1♣️!-1♥️-1♠️-3♣️!, note that the initial pass
       partnership clearly has points for slam and just wants to verify that
       there are not two missing aces. Otherwise, other slam seeking methods will
       be more appropriate.
+
+## 3-suit Keycard
+
+If opener has shown a 3-suited hand (for example, after a 2♦️ opening), then 4♣️,
+4♦️, and 4NT are the keycard asks in the low, middle, and high suits
+respectively, as long as none are needed as signoff bids. If some are signoff,
+then the remaining bids are keycard for as many suits as possible, prioritizing
+long suits, and higher suits between those of equal length. In all cases, the
+cheaper bid corresponds to keycard in the lower suit.
+
+Example 1: After a 2♦️ opening, a direct response of 4♣️ is keycard in clubs, 4♦️
+is keycard in hearts, and 4NT is keycard in spades.
+
+Example 2: After 2♦️-2NT-3♣️ showing 3=4=1=5 and any strength, 4♣️ is not needed as
+signoff (responder could pass), so 4♣️ is keycard in clubs, 4♦️ is keycard in
+hearts, and 4NT is keycard in spades.
+
+Example 3: After 2♦️-2NT-3♦️ showing 4=3=1=5 and any strength, 4♣️ is a signoff
+bid, so only 4♦️ and 4NT are keycard bids. In this case, hearts is the shortest
+suit and therefore not given a keycard bid, so 4♦️ is keycard in clubs and 4NT is
+keycard in spades.
+
+Example 4: After 2♦️-2NT-3♠️ showing 4=4=1=4 and a maximum without the diamond A
+or K, 4♣️ and 4♦️ are not needed as signoff as opener has shown a maximum after an
+invitational bid. Therefore, 4♣️ is keycard in clubs, 4♦️ is keycard in hearts,
+and 4NT is keycard in spades.
