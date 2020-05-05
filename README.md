@@ -128,7 +128,8 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 2♣️! Semi-natural game forcing. Generally no 5 card majors, but may have 4 card
   majors. Often has clubs, but not necessarily. Opener bids 4 card suits up the
   line.
-* 2♦️! Forcing raise (11+ points, 5+♦️s, similar to inverted minors but should
+* 2♦️! Forcing raise (11+ points, 5+♦️s, similar to inverted minors, but should
+Write
   have a fifth diamond)
 * 2♥️! Weak jump-shift: Less than constructive values and long hearts
 * 2♠️! Weak jump-shift: Less than constructive values and long spades
