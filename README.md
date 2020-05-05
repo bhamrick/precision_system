@@ -183,6 +183,9 @@ Write
   only be made with either near-max values or 6/5+ distribution (minimum 5/5
   hands would open 1♠️).
 * 2/1 responses are game forcing and natural
+  * 1M-2m-2NT shows a balanced hand with no 4 card side suit. New suits from
+    opener ask for help; bid 3NT if responder has a stop in that suit, otherwise
+    continue naturally.
 * If responder is a passed hand, all responses are nonforcing.
 * 2♥️/2♠️ Invitational with 3+ card support
     * Opener generally passes or bids 4♥️/4♠️ directly. For borderline hands,
