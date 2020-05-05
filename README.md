@@ -103,26 +103,36 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 
 ## After 1♦️\*
 
-* 1♥️ 4+♥️s, one round forcing
-    * 1♠️ 4♠️s, unbalanced
-    * 1NT 11-13 balanced, may contain 4♠️s
+* 1♥️ 4+♥️s, one round forcing. With 4/4 spades and hearts and less than game
+  forcing values, responder typically starts with 1♥️.
+    * 1♠️ 4♠️s, possibly balanced
+        * 2-way checkback is on
+        * 2♠️ General invite with 4♠️s
+        * Bids above 2♠️ are game tries with a spade fit, with the same meaning
+          as if the bidding started 1♦️-1♠️-2♠️.
+    * 1NT 11-13 balanced, denies 4♠️s
     * 2♣️ 5/4+ in the minors, unbalanced. Either minor may be longer.
     * 2♦️ 6+♦️s without significant extra strength.
     * 2♥️ 4♥️s any strength
-* 1♠️ 4+♠️s, one round forcing. With equal length spades and hearts and less than
-  game forcing values, responder starts with 1♠️.
+* 1♠️ 4+♠️s, one round forcing.
     * 1NT 11-13 balanced
     * 2♣️ 5/4+ in the minors, unbalanced. Either minor may be longer.
     * 2♦️ 6+♦️s without significant extra strength.
-    * 2♥️ 4♥️s unbalanced
+    * 2♥️! Exactly 3=4=5=1, any strength
+        * 2NT! Artificial invitational+ asking bid
+            * 3♣️! Any minimum
+            * 3♦️!, 3♥️!, 3♠️!, 3NT! Maximum with ace or king in suit bid (or clubs
+              if NT) and none of the cheaper ones.
     * 2♠️ 4♠️s any strength
 * 1NT Nonforcing
-* 2♣️! Artificial game forcing. May have 4 card majors. Opener bids 4 card suits up the line.
-  * If a player later bids a new suit at 3 level where they previously denied 4
-    cards, it asks for a 3NT bid if the other player has a stopper in that suit.
-* 2♦️ Constructive raise
+* 2♣️! Semi-natural game forcing. Generally no 5 card majors, but may have 4 card
+  majors. Often has clubs, but not necessarily. Opener bids 4 card suits up the
+  line.
+* 2♦️! Forcing raise (11+ points, 5+♦️s, similar to inverted minors, but should
+  have a fifth diamond)
 * 2♥️! Weak jump-shift: Less than constructive values and long hearts
 * 2♠️! Weak jump-shift: Less than constructive values and long spades
+* 2NT Balanced, invitational to game
 * 3♣️! Weak jump-shift: Less than constructive values and long clubs
 * 3♦️! Preemptive raise
 * If responder is a passed hand, all responses are nonforcing.
