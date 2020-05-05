@@ -129,7 +129,6 @@ all cases, but for the 2NT bids we use Puppet Stayman.
   majors. Often has clubs, but not necessarily. Opener bids 4 card suits up the
   line.
 * 2♦️! Forcing raise (11+ points, 5+♦️s, similar to inverted minors, but should
-Write
   have a fifth diamond)
 * 2♥️! Weak jump-shift: Less than constructive values and long hearts
 * 2♠️! Weak jump-shift: Less than constructive values and long spades
