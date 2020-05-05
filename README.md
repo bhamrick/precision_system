@@ -126,7 +126,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 2♠️ 4♠️s any strength
 * 1NT Nonforcing
 * 2♣️! Semi-natural game forcing. Generally no 5 card majors, but may have 4 card
-  majors. Often has clubs but not necessarily. Opener bids 4 card suits up the
+  majors. Often has clubs, but not necessarily. Opener bids 4 card suits up the
   line.
 * 2♦️! Forcing raise (11+ points, 5+♦️s, similar to inverted minors but should
   have a fifth diamond)
