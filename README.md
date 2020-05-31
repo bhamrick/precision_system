@@ -556,6 +556,17 @@ Example 4: After P-1♣️!-1♥️-1♠️-3♣️!, note that the initial pass
           deny the asked queen but show another queen.
     * DOPI over interference (Double = 0 or 3, Pass = 1 or 4, Step = 2 or 5 w/o
       queen, 2 steps = 2 or 5 w/ queen, assuming space permits)
+* Exclusion Keycard
+    * Jump to 5 of a suit shows a void in that suit and asks for keycards
+      outside.
+    * Responses are in steps:
+        * First step 0 outside keycards
+        * Second step 1 outside keycard without the trump queen
+        * Third step 1 outside keycard with the trump queen
+        * Fourth step 2 outside keycards without the trump queen
+        * Fifth step 2 outside keycards with the trump queen
+    * 3 keycards doesn't need a response because initiator will need to have one
+      or else the 2 keycard response takes the auction too high.
 * Gerber
     * Jump from 1NT or 2NT openings or pseudo-openings to 4♣️ for Ace ask.
       Responses are Blackwood-style.
