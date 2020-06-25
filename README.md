@@ -580,3 +580,43 @@ Example 4: After P-1♣️!-1♥️-1♠️-3♣️!, note that the initial pass
       partnership clearly has points for slam and just wants to verify that
       there are not two missing aces. Otherwise, other slam seeking methods will
       be more appropriate.
+
+## 3-suit Keycard
+
+If opener has shown a 3-suited hand (for example, after a 2♦️ opening), then 4♣️,
+4♦️, and 4NT are the keycard asks in the low, middle, and high suits
+respectively, as long as none are needed as signoff bids. If some are signoff,
+then the remaining bids are keycard for as many suits as possible, prioritizing
+long suits, and higher suits between those of equal length. In all cases, the
+cheaper bid corresponds to keycard in the lower suit.
+
+When 3-suit keycard applies, the suit above the trump suit is the king asking
+bid, with one very important exception. If not every suit was available to
+keycard in, then a bid in the unavailable suit should be considered signoff
+instead of king ask. The first available bid (possibly 5NT) is the king ask
+instead. This allows the captain to keycard in another suit if they deem that
+information to be good enough for finding slam in the unavailable suit. When
+responding to the king ask, 5NT fills in as indicating the king of the suit used
+to initiate the ask.
+
+Example 1: After a 2♦️ opening, a direct response of 4♣️ is keycard in clubs, 4♦️
+is keycard in hearts, and 4NT is keycard in spades.
+
+Example 2: After 2♦️-2NT-3♣️ showing 3=4=1=5 and any strength, 4♣️ is not needed as
+signoff (responder could pass), so 4♣️ is keycard in clubs, 4♦️ is keycard in
+hearts, and 4NT is keycard in spades.
+
+Example 3: After 2♦️-2NT-3♦️ showing 4=3=1=5 and any strength, 4♣️ is a signoff
+bid, so only 4♦️ and 4NT are keycard bids. In this case, hearts is the shortest
+suit and therefore not given a keycard bid, so 4♦️ is keycard in clubs and 4NT is
+keycard in spades.
+
+Example 4: After 2♦️-2NT-3♠️ showing 4=4=1=4 and a maximum without the diamond A
+or K, 4♣️ and 4♦️ are not needed as signoff as opener has shown a maximum after an
+invitational bid. Therefore, 4♣️ is keycard in clubs, 4♦️ is keycard in hearts,
+and 4NT is keycard in spades.
+
+Example 5: After 2♦️-2NT-3♣️-3♦️-3♥️ Showing 3=4=1=5 and a minimum, 4♣️ is a signoff
+so 4♦️ is keycard in clubs and 4NT is keycard in hearts. After a response to 4NT,
+5♠️ is a signoff indicating that responder had long spades, since it was
+impossible to keycard in spades, and 5NT is instead the king ask.
