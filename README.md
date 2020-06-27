@@ -125,11 +125,47 @@ all cases, but for the 2NT bids we use Puppet Stayman.
               if NT) and none of the cheaper ones.
     * 2♠️ 4♠️s any strength
 * 1NT Nonforcing
-* 2♣️! Semi-natural game forcing. Generally no 5 card majors, but may have 4 card
-  majors. Often has clubs, but not necessarily. Opener bids 4 card suits up the
-  line.
-* 2♦️! Forcing raise (11+ points, 5+♦️s, similar to inverted minors, but should
-  have a fifth diamond)
+* 2♣️! 11+ points, 5+♣️s. Generally denies a 4 card major unless game forcing values. Somewhat artificial rebids:
+    * 2♦️! Any minimum
+        * 2♥️! Asks for clarification, only way to stop below game.
+            * 2♠️! Balanced without desire to declare in notrump
+            * 2NT Balanced with desire to declare in notrump
+            * 3♣️ Unbalanced, 4+♣️s
+            * 3♦️ 6+♦️s
+        * 2♠️! Game forcing without desire to declare in notrump
+            * 2NT Balanced
+            * 3♣️ Unbalanced, 4+♣️s
+            * 3♦️ 6+♦️s or 5♦️s with a 4 card major
+            * Responder may bid a 4 card major to check for a fit.
+        * 2NT! Game forcing with desire to declare in notrump
+            * 3♣️ Unbalanced, 4+♣️s
+            * 3♦️ 6+♦️s or 5♦️s with a 4 card major
+            * 3♥️ Balanced with 4♥️s
+            * 3♠️ Balanced with 4♠️s
+            * Responder may bid a 4 card major to check for a fit.
+    * 2♥️! Maximum, 4♥️s, denies 4♠️s
+    * 2♠️! Maximum, 4♠️s, denies 4♥️s
+    * 2NT! Maximum, 4♥️s and 4♠️s (In cases where the opener had a 14-16 notrump
+      available, this implies either 4441 or 4450 exactly as balanced hands
+      would have opened 1NT).
+    * 3♣️! Maximum, 4+♣️s
+    * 3♦️! Maximum, 6+♦️s
+    * After maximum responses, the auction is forcing to game and continuations
+      are natural. If responder confirms a fit below game level that implies
+      slam interest (fast arrival).
+* 2♦️! 11+ points, 5+♦️s, similar rebids as after 2♣️:
+    * 2♥️! Any minimum
+        * 2♠️! Asks for clarification, only way to stop below game.
+            * 2NT Balanced
+            * 3♣️ 5+♣️s
+            * 3♦️ 4+♦️s, possibly with a 4 card major
+        * 2NT! Game forcing
+            * 3♣️ Both minors with longer ♣️s
+            * 3♦️ 4+♦️s, possibly with a 4 card major
+            * 3♥️ 4♥️s without 4♦️s
+            * 3♠️ 4♠️s without 4♦️s
+            * 3NT Balanced without 4♦️s or a 4 card major (implies 4+♣️s)
+    * Others are maximum and natural, with natural continuations.
 * 2♥️! Weak jump-shift: Less than constructive values and long hearts
 * 2♠️! Weak jump-shift: Less than constructive values and long spades
 * 2NT Balanced, invitational to game
