@@ -32,11 +32,16 @@ opener's rebid are delayed alerts instead.
 # Openings
 
 * 1♣️! 16+ unbalanced or 17+ balanced (except 2NT opening hands)
-* 1♦️\* Good 10-15 catchall (always 3+♦️s or balanced, always 2+♦️s)
+* 1♦️\* Good 10-15 catchall (always 3+♦️s or balanced, always 2+♦️s), can be a
+  balanced 16 in 1st or 2nd seat nonvul, as 1NT is 10-12 in those seats.
 * 1♥️ Good 10-15 5+♥️s
 * 1♠️ Good 10-15 5+♠️s
-* 1NT\* 14-16 balanced. Balanced hands including 5 card majors are opened 1NT if
-  they are in the appropriate point range.
+* 1NT\*
+    * In first and second seat nonvulnerable, 10-12 balanced, maybe bad 13s.
+      ABSOLUTELY NO UPGRADES OF NINE POINT HANDS (Illegal in ACBL events).
+    * In all other situations, 14-16 balanced.
+    * Balanced hands including 5 card majors are opened 1NT if they are in the
+      appropriate point range.
 * 2♣️! Good 10-15 6+♣️s
 * 2♦️! Good 10-15, one of 3=4=1=5, 4=3=1=5, 4=4=0=5, or 4=4=1=4
 * 2♥️ Weak, generally 5-bad 10
@@ -50,8 +55,8 @@ opener's rebid are delayed alerts instead.
 For quick reference, this is our "Notrump ladder". Systems are generally on in
 all cases, but for the 2NT bids we use Puppet Stayman.
 
-* 11-13 1♦️\*-1M-1NT
-* 14-16 1NT\*
+* 11-13 1♦️\*-1M-1NT (1NT if 1st/2nd nonvul)
+* 14-16 1NT\* (1♦️\*-1M-1NT if 1st/2nd nonvul)
 * 17-19 1♣️!-1♦️!-1NT
 * 20-21 2NT
 * 22-23 1♣️!-1♦️!-2NT
@@ -228,9 +233,46 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 3♥️!/3♠️! Preemptive raise. Less than invitational with 4+ card support.
 * 4♥️!/4♠️! To play, no slam interest.
 
-## After 1NT or 1♣️!-1♦️!-1NT
+## After 10-12 1NT
 
-* 2♣️ Stayman, invitational values
+* 2♣️ Stayman, generally invitational but garbage stayman allowed. With garbage
+  stayman style hands you can also consider waiting for opponents to double and
+  then utilize the runout system.
+* 2♦️! Game forcing Stayman
+* 2♥️ To play
+* 2♠️ To play
+* 2NT! Weak with both minors
+* 3♣️!/3♦️!/3♥️!/3♠️! Preemptive natural
+* 3NT To play
+* 4♣️! Texas transfer to hearts
+* 4♦️! Texas transfer to spades
+* 4♥️ To play
+* 4♠️ To play
+* 4NT Quantitative invite to slam
+* 5♣️ To play
+* 5♦️ To play
+
+### Runouts after 1NT-X or 1NT-P-P-X-P-P
+
+Over a double, runouts are akin to our strong notrump defense.
+Runouts are on regardless of whether the double is meant as penalty or not.
+
+* Pass Suggests playing 1NTx
+* XX Relays to 2♣️ showing either a single minor or both majors
+* 2♣️ Clubs and a higher suit (Note: In the defense this is clubs and a major,
+  but we would rather not force ourselves to run to 3 level with both minors).
+* 2♦️ Diamonds and a higher suit
+* 2♥️ Natural, to play
+* 2♠️ Natural, to play
+
+Any continuation by responder after the natural conclusion of the runout shows
+at least invitational values and is forcing. Any suit bid by opener other than
+the cheapest one shows a good 5 card suit suggesting to play there rather than
+looking for a fit in one of responder's suits.
+
+## After 14-16 1NT or 1♣️!-1♦️!-1NT
+
+* 2♣️ Stayman, garbage stayman allowed
     * 2♦️ No 4+ card major
     * 2♥️ 4+♥️s
     * 2♠️ 4+♠️s
@@ -259,10 +301,14 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 3♥️ 5♥️s
     * 3♠️ 5♠️s
     * 3NT! No 4 or 5 card major
-        * 4♦️! Transfer to ♥️ (made with unusual lengths such as 6/4 in majors)
-        * 4♥️! Transfer to ♠️ (made with unusual lengths such as 6/4 in majors)
-* 4♦️\* Texas transfer to ♥️
-* 4♥️\* Texas transfer to ♠️
+        * 4♣️! Transfer to ♥️ (made with unusual lengths such as 6/4 in majors)
+        * 4♦️! Transfer to ♠️ (made with unusual lengths such as 6/4 in majors)
+        * 4♥️ To play (made with unusal lengths and desire to declare)
+        * 4♠️ To play (made with unusal lengths and desire to declare)
+* 4♣️\* Texas transfer to ♥️
+* 4♦️\* Texas transfer to ♠️
+* 4♥️ To play
+* 4♠️ To play
 
 ## After 2♣️!
 
@@ -327,13 +373,17 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 3♥️ 5♥️s
     * 3♠️ 5♠️s
     * 3NT! No 4 or 5 card major
-        * 4♦️! Transfer to ♥️ (made with unusual lengths such as 6/4 in majors)
-        * 4♥️! Transfer to ♠️ (made with unusual lengths such as 6/4 in majors)
+        * 4♣️! Transfer to ♥️ (made with unusual lengths such as 6/4 in majors)
+        * 4♦️! Transfer to ♠️ (made with unusual lengths such as 6/4 in majors)
+        * 4♥️ To play (made with unusal lengths and desire to declare)
+        * 4♠️ To play (made with unusal lengths and desire to declare)
 * 3♦️\* Jacoby transfer to ♥️
 * 3♥️\* Jacoby transfer to ♠️
 * 3NT To play
-* 4♦️\* Texas transfer to ♥️
-* 4♥️\* Texas transfer to ♠️
+* 4♣️\* Texas transfer to ♥️
+* 4♦️\* Texas transfer to ♠️
+* 4♥️ To play
+* 4♠️ To play
 
 ## After 3NT! (Gambling)
 
@@ -562,24 +612,6 @@ Example 4: After P-1♣️!-1♥️-1♠️-3♣️!, note that the initial pass
         * Fifth step 2 outside keycards with the trump queen
     * 3 keycards doesn't need a response because initiator will need to have one
       or else the 2 keycard response takes the auction too high.
-* Gerber
-    * Jump from 1NT or 2NT openings or pseudo-openings to 4♣️ for Ace ask.
-      Responses are Blackwood-style.
-        * Example: After 1♣️-1♦️-1NT, 4♣️ is Gerber.
-            * 4♦️ shows 0 or 4
-            * 4♥️ shows 1
-            * 4♠️ shows 2
-            * 4NT shows 3
-        * Example: After 1♦️-1♠️-1NT, 4♣️ is again Gerber.
-        * After the response, 5♣️ guarantees all aces and asks for the cheapest
-          king.
-    * Gerber is off if there is a bid from the opponent after the notrump
-      bidder.
-        * Example: After 1NT-(2♥️), 4♣️ is a weak preemptive bid, and not Gerber.
-    * Generally, Gerber should be avoided. It should only be used when the
-      partnership clearly has points for slam and just wants to verify that
-      there are not two missing aces. Otherwise, other slam seeking methods will
-      be more appropriate.
 
 ## 3-suit Keycard
 
