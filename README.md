@@ -651,23 +651,26 @@ Example 4: After P-1♣️!-1♥️-1♠️-3♣️!, note that the initial pass
 
 ## Lebensohl
 
-### After a 2-level overcall of our 1NT opening
+### After a direct 2-level overcall of our 1NT opening
 
-If the opponents overcall 2♦️, 2♥️, or 2♠️ over our 1NT opening (systems are on
-over 2♣️), regardless of which range, 2NT by responder is a relay to 3♣️ to show a
-hand that is interested in competing to 3 level, but not interested in
+If the opponents overcall 2♦️, 2♥️, or 2♠️ directly over our 1NT opening (systems
+are on over 2♣️), regardless of which range, 2NT by responder is a relay to 3♣️ to
+show a hand that is interested in competing to 3 level, but not interested in
 investigating game (except in the case where responder continues by cue bidding
 the opponent's suit). After the 3♣️ relay, responder either passes or bids their
 suit naturally.
 
 For suits above the overcalled suit, introducing the suit at two level is
-nonforcing, Lebensohl can be used to show an invitational hand, and jumping to
+nonforcing. Lebensohl can be used to show an invitational hand. Jumping to
 three level shows a game force.
 
 Cue bidding the opponent's suit is instead stayman, either showing a stopper in
 the overcalled suit or not depending on whether the 2NT relay is used. The
 direct cue bid denies a stopper ("fast denies"), while the relay and then cue
 bidding shows a stopper ("slow shows").
+
+Over a balancing overcall, responer has already passed presumably denying game
+interest, and so Lebensohl does not apply.
 
 Example situation: 1NT-(2♥️)-?
 * 2♠️ Natural and nonforcing
