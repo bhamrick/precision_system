@@ -688,3 +688,11 @@ Example 5: After 2♦️-2NT-3♣️-3♦️-3♥️ Showing 3=4=1=5 and a minim
 so 4♦️ is keycard in clubs and 4NT is keycard in hearts. After a response to 4NT,
 5♠️ is a signoff indicating that responder had long spades, since it was
 impossible to keycard in spades, and 5NT is instead the king ask.
+
+## Experimental: 4-4 Double
+
+When the opponents open 1 of a minor, a direct double is not the usual 3-suited
+takeout, but instead shows 4-4 in the major suits and overcalling strength
+(roughly 8+). Power doubles are still possible. Advances are similar to normal
+takeout doubles but biased toward the majors. Balancing doubles are still normal
+takeout.
