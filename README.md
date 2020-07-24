@@ -669,8 +669,8 @@ the overcalled suit or not depending on whether the 2NT relay is used. The
 direct cue bid denies a stopper ("fast denies"), while the relay and then cue
 bidding shows a stopper ("slow shows").
 
-Over a balancing overcall, responer has already passed presumably denying game
-interest, and so Lebensohl does not apply.
+Over a balancing overcall, responder has already passed, presumably denying game
+interest, so Lebensohl does not apply.
 
 Example situation: 1NT-(2♥️)-?
 * 2♠️ Natural and nonforcing
