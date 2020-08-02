@@ -649,6 +649,64 @@ Example 4: After P-1♣️!-1♥️-1♠️-3♣️!, note that the initial pass
     * 3 keycards doesn't need a response because initiator will need to have one
       or else the 2 keycard response takes the auction too high.
 
+## Lebensohl
+
+### After a direct 2-level overcall of our 1NT opening
+
+If the opponents overcall 2♦️, 2♥️, or 2♠️ directly over our 1NT opening (systems
+are on over 2♣️), regardless of which range, 2NT by responder is a relay to 3♣️ to
+show a hand that is interested in competing to 3 level, but not interested in
+investigating game (except in the case where responder continues by cue bidding
+the opponent's suit). After the 3♣️ relay, responder either passes or bids their
+suit naturally.
+
+For suits above the overcalled suit, introducing the suit at two level is
+nonforcing. Lebensohl can be used to show an invitational hand. Jumping to
+three level shows a game force.
+
+Cue bidding the opponent's suit is instead stayman, either showing a stopper in
+the overcalled suit or not depending on whether the 2NT relay is used. The
+direct cue bid denies a stopper ("fast denies"), while the relay and then cue
+bidding shows a stopper ("slow shows").
+
+Over a balancing overcall, responder has already passed, presumably denying game
+interest, so Lebensohl does not apply.
+
+Example situation: 1NT-(2♥️)-?
+* 2♠️ Natural and nonforcing
+* 2NT! Lebensohl
+    * 3♣️! Forced
+        * Pass Hand that wants to compete to 3♣️ but without game interest
+        * 3♦️ Hand that wants to compete to 3♦️ but without game interest
+        * 3♥️! "Stayman with a stopper", game forcing
+        * 3♠️ Natural and invitational
+* 3♣️ Natural and invitational
+* 3♦️ Natural and invitational
+* 3♥️! "Stayman without a stopper", game forcing
+* 3♠️ Natural and game forcing
+* 3NT To play
+
+### After a takeout double of an opposing weak 2
+
+If the opponents open a weak 2♦️, 2♥️, or 2♠️, and our side doubles for takeout,
+2NT is a relay to 3♣️ to show a weak hand (generally 0-7). Unlike in the previous
+situation, sometimes the doubler will break the relay to show a very strong hand
+that has interest in going further despite the 0-7 points.
+
+Example situation: (2♥️)-X-?
+* 2♠️ Natural and weak
+* 2NT! Lebensohl, generally shows a weak hand
+    * 3♣️! Nearly forced, shows that it was not a power double
+        * Pass Wants to play 
+        * 3♦️ Natural and weak
+        * 3♥️! "Stayman with a stopper", game forcing
+        * 3♠️ Natural and invitational
+* 3♣️ Natural and invitational
+* 3♦️ Natural and invitational
+* 3♥️! "Stayman without a stopper", game forcing
+* 3♠️ Natural and game forcing
+* 3NT To play
+
 ## 3-suit Keycard
 
 If opener has shown a 3-suited hand (for example, after a 2♦️ opening), then 4♣️,
