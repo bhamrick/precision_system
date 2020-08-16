@@ -44,8 +44,8 @@ opener's rebid are delayed alerts instead.
       appropriate point range.
 * 2♣️! Good 10-15 6+♣️s
 * 2♦️! Good 10-15, one of 3=4=1=5, 4=3=1=5, 4=4=0=5, or 4=4=1=4
-* 2♥️ Weak, generally 5-bad 10
-* 2♠️ Weak, generally 5-bad 10
+* 2♥️ Weak, often 5 cards and/or very light when nonvulnerable.
+* 2♠️ Weak, often 5 cards and/or very light when nonvulnerable.
 * 2NT 20-21 balanced
 * 3NT! Gambling (Solid 7 card minor suit e.g. AKQxxxx, minimum opening strength
   or less)
@@ -395,6 +395,30 @@ looking for a fit in one of responder's suits.
 * 5♣️ To play
 * 5♦️ To play
 * 2NT! and 3♦️! are ON in competition.
+
+## After 2♥️/2♠️
+
+Here M refers to the opened major and X refers to any other suit. A feature
+is generally an ace or king, and never shortage. The meanings of maximum and
+minimum are left unspecified but adding a king to a maximum should take it
+outside of the preempt range, either to pass in hopes of a better constructive
+auction or to a one level opening.
+
+* New suits natural and forcing
+* 2NT! Artificial inquiry, invitational or better. Note that because of the light
+  preempting style an invitational hand needs to be quite strong. This can also
+  be used for investigating slam and is often better suited for that purpose as
+  you can safely sign off in 4M after any sequence of bids.
+    * 3♣️! Any minimum
+        * 3♦️! Asks for more clarification
+            * 3M! Nonvul: 5 card suit, Vulnerable: No outside feature
+            * 3X! 6 card suit and feature in the bid suit.
+    * 3M! Maximum, Nonvul: 5 card suit, Vulnerable: No outside feature and
+      generally has a shortage.
+    * 3X! Maximum, 6 card suit and feature in the bid suit.
+    * 3NT! Maximum, 6 card suit and no outside feature. If vulnerable, also
+      denies shortage.
+* 2NT is ON in competition if available.
 
 ## After 2NT or 1♣️!-1♦️!-2NT
 
