@@ -131,46 +131,44 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 2♠️ 4♠️s any strength
 * 1NT Nonforcing
 * 2♣️! 11+ points, 5+♣️s. Generally denies a 4 card major unless game forcing values. Somewhat artificial rebids:
-    * 2♦️! Any minimum
-        * 2♥️! Asks for clarification, only way to stop below game.
-            * 2♠️! Balanced without desire to declare in notrump
-            * 2NT Balanced with desire to declare in notrump
-            * 3♣️ Unbalanced, 4+♣️s
-            * 3♦️ 6+♦️s
-        * 2♠️! Game forcing without desire to declare in notrump
-            * 2NT Balanced
-            * 3♣️ Unbalanced, 4+♣️s
-            * 3♦️ 6+♦️s or 5♦️s with a 4 card major
-            * Responder may bid a 4 card major to check for a fit.
-        * 2NT! Game forcing with desire to declare in notrump
-            * 3♣️ Unbalanced, 4+♣️s
-            * 3♦️ 6+♦️s or 5♦️s with a 4 card major
-            * 3♥️ Balanced with 4♥️s
-            * 3♠️ Balanced with 4♠️s
-            * Responder may bid a 4 card major to check for a fit.
-    * 2♥️! Maximum, 4♥️s, denies 4♠️s
-    * 2♠️! Maximum, 4♠️s, denies 4♥️s
-    * 2NT! Maximum, 4♥️s and 4♠️s (In cases where the opener had a 14-16 notrump
-      available, this implies either 4441 or 4450 exactly as balanced hands
-      would have opened 1NT).
+    * 2♦️! Any minimum without 4♥️s
+        * 2♥️! Artificial game force, asks for clarification.
+            * Opener continus by bidding shape naturally.
+        * 2♠️ Nonforcing, 4♠️s
+        * 2NT Nonforcing, natural
+        * 3♣️ Nonforcing, 6+♣️s 
+        * 3♦️ Signoff
+        * 3♥️! 6+♣️s, 5+♥️s, slam seeking
+        * 3♠️!, 6+♣️s, 5+♠️s, slam seeking
+        * 3NT Signoff
+    * 2♥️! Minimum with 4♥️s
+        * Pass To play
+        * 2♠️! Artificial game force
+            * Opener continues bidding naturally.
+        * 2NT Nonforcing, natural
+        * 3♣️, Nonforcing, 6+♣️s
+        * 3♦️ Signoff
+        * 3♥️ Invitation to 4♥️, looking for good minimums
+    * 2♠️! Maximum, 4♠️s
+    * 2NT! Maximum, natural
     * 3♣️! Maximum, 4+♣️s
     * 3♦️! Maximum, 6+♦️s
+    * 3♥️! Maximum, 4♥️s
     * After maximum responses, the auction is forcing to game and continuations
       are natural. If responder confirms a fit below game level that implies
       slam interest (fast arrival).
 * 2♦️! 11+ points, 5+♦️s, similar rebids as after 2♣️:
     * 2♥️! Any minimum
-        * 2♠️! Asks for clarification, only way to stop below game.
-            * 2NT Balanced
-            * 3♣️ 5+♣️s
-            * 3♦️ 4+♦️s, possibly with a 4 card major
-        * 2NT! Game forcing
-            * 3♣️ Both minors with longer ♣️s
-            * 3♦️ 4+♦️s, possibly with a 4 card major
-            * 3♥️ 4♥️s without 4♦️s
-            * 3♠️ 4♠️s without 4♦️s
-            * 3NT Balanced without 4♦️s or a 4 card major (implies 4+♣️s)
+        * 2♠️! Artificial game force
+            * Opener continues bidding shape naturally
+        * 2NT Nonforcing, natural
+        * 3♣️ Nonforcing, 6+♣️s
+        * 3♦️ Signoff
     * Others are maximum and natural, with natural continuations.
+    * Since opener won't show a 4 card major unless responder game forces, it
+      will usually be better to bid 1♥️ or 1♠️ with a 4 card major and without
+      slam interest. On the other hand, when responder does have slam interest,
+      2♦️ will make it easier to find a good diamond fit if it exists.
 * 2♥️! Weak jump-shift: Less than constructive values and long hearts
 * 2♠️! Weak jump-shift: Less than constructive values and long spades
 * 2NT Balanced, invitational to game
