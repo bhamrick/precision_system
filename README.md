@@ -60,7 +60,10 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 17-19 1♣️!-1♦️!-1NT
 * 20-21 2NT
 * 22-23 1♣️!-1♦️!-2NT
-* 24+ 1♣️!-1♦️!-3NT
+* 24-25 1♣️!-1♦️!-2♥️!-2♠️!-2NT
+* 26-27 1♣️!-1♦️!-3NT
+* 28+ 1♣️!-1♦️!-2♥️!-2♠️!-3NT
+
 
 # Responses
 
@@ -72,12 +75,19 @@ all cases, but for the 2NT bids we use Puppet Stayman.
     * 1NT 17-19 balanced, systems on
     * 2♣️ 16-21 4+♣️s, nonforcing
     * 2♦️ 16-21 4+♦️s, nonforcing
-    * 2♥️ 22+ 5+♥️s, forcing
+    * 2♥️! 22+ 5+♥️s or various balanced ranges
+        * 2♠️! Essentially forced
+            * 2NT 24-25 balanced, systems on
+            * 3♣️ 22+ 5+♥️s, 4+♣️, forcing
+            * 3♦️ 22+ 5+♥️s, 4+♦️, forcing
+            * 3♥️ 22+ 6+♥️s, forcing
+            * 3♠️ 22+ 5+♥️, 4+♠️ with longer hearts, forcing
+            * 3NT 28-29 balanced, stayman and transfers available
     * 2♠️ 22+ 5+♠️s, forcing
     * 2NT 22-23 balanced, nonforcing, systems on
     * 3♣️ 22+ 4+♣️s, forcing
     * 3♦️ 22+ 4+♦️s, forcing
-    * 3NT 24+ balanced, stayman and transfers available
+    * 3NT 26-27 balanced, stayman and transfers available
 * 1♥️ 8+ 5+♥️s
 * 1♠️ 8+ 5+♠️s
 * 1NT! 8-11 or 14+ balanced. After this opening, the first SRAAACA range is
