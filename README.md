@@ -91,7 +91,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 1♥️ 8+ 5+♥️s
 * 1♠️ 8+ 5+♠️s
 * 1NT! 8-11 or 14+ balanced. After this opening, the first SRAAACA range is
-  8-11, then 14-16, etc.
+  8-9, then 10-11, then 14-16, etc.
     * 2♣️! Asks for 4 card major. To keep auctions lower, use transfer responses:
         * 2♦️! 4♥️s
         * 2♥️! 4♠️s
