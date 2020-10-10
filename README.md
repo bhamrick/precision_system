@@ -279,9 +279,9 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 
 ## After 10-12 1NT
 
-* 2♣️ Stayman, generally invitational but garbage stayman allowed. With garbage
-  stayman style hands you can also consider waiting for opponents to double and
-  then utilize the runout system.
+* 2♣️ Stayman. The same weak hands are allowed as over the 14-16 1NT. With these
+  weak hands you can also consider waiting for opponents to double and then
+  utilize the runout system.
 * 2♦️! Game forcing Stayman
 * 2♥️ To play
 * 2♠️ To play
@@ -316,12 +316,40 @@ looking for a fit in one of responder's suits.
 
 ## After 14-16 1NT or 1♣️!-1♦️!-1NT
 
-* 2♣️ Stayman, garbage stayman allowed
+* 2♣️ Stayman
+    * Could be several hand types, but always includes a 4 card major:
+        * Garbage stayman (3 suited hand with short clubs)
+        * Crawling stayman (weak hand with both majors)
+        * Weak hand with a 4 card major and a long (probably 6) card minor
+        * With invitational and 5/4 majors instead start by transferring to the
+          5 card major.
     * 2♦️ No 4+ card major
-    * 2♥️ 4+♥️s
-    * 2♠️ 4+♠️s
+        * Pass Garbage stayman or weak with a major and long ♦️s
+        * 2♥️ Crawling stayman - weak with both majors
+        * 3♣️! Signoff - weak with a 4 card major and long ♣️s
+        * 3♥️! Smolen - Game forcing with 5♠️s and 4♥️s
+        * 3♠️! Smolen - Game forcing with 5♥️s and 4♠️s
+    * 2♥️ 4+♥️s, could have 4♠️s
+        * 2♠️! Nonforcing, shows the weak hand with 4♠️s and a long minor
+        * 2NT Invitational without heart fit (implies a 4 card ♠️ suit)
+        * 3♥️ Invitational with a heart fit. Opener can bid 3NT to accept if they
+          want to offer a choice of games.
+        * 3♠️! Slam try in ♥️s
+    * 2♠️ 4+♠️s, denies 4♥️s
+        * 2NT Invitational without spade fit (implies a 4 card ♥️ suit)
+        * 3♣️! Signoff - Weak with 4♥️s and long ♣️s
+        * 3♦️! Signoff - Weak with 4♥️s and long ♦️s
+        * 3♥️! Slam try in ♠️s
+        * 3♠️  Invitational with a spade fit. Opener can bid 3NT to accept if
+          they want to offer a choice of games.
 * 2♦️\* Jacoby transfer to ♥️
+    * 2♥️ Generally forced
+        * 2♠️! Invitational with 5♥️s and 4♠️s
+        * Other new suits are game forcing and natural.
 * 2♥️\* Jacoby transfer to ♠️
+    * 2♠️ Generally forced
+        * 3♥️! Invitational with 5♠️ and 4♥️s
+        * Other new suits are game forcing and natural.
 * 2♠️! Size ask or transfer to clubs
     * 2NT! Minimum
         * 3♣️ Says responder had clubs and wants to sign off
