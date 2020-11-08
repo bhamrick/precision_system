@@ -231,6 +231,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
   only be made with either near-max values or 6/5+ distribution (minimum 5/5
   hands would open 1♠️).
 * 2/1 responses are game forcing and natural
+  * 2♣️ is either 5+♣️s or any balanced. All other bids are 5+ in that suit.
   * 1M-2m-2NT shows a balanced hand with no 4 card side suit. New suits from
     opener ask for help; bid 3NT if responder has a stop in that suit, otherwise
     continue naturally.
