@@ -810,10 +810,79 @@ so 4♦️ is keycard in clubs and 4NT is keycard in hearts. After a response to
 5♠️ is a signoff indicating that responder had long spades, since it was
 impossible to keycard in spades, and 5NT is instead the king ask.
 
-## Experimental: 4-4 Double
+## Doubles of an opponent's 1 minor opening
 
-When the opponents open 1 of a minor, a direct double is not the usual 3-suited
-takeout, but instead shows 4-4 in the major suits and overcalling strength
-(roughly 8+). Power doubles are still possible. Advances are similar to normal
-takeout doubles but biased toward the majors. Balancing doubles are still normal
-takeout.
+### Direct doubles of 1♣️ that contains weak (less than 15) options
+
+This category includes standard 1♣️, Polish Club, "may be short" 1♣️ with transfer
+responses, Tangerine Club, and so on. It also includes strong 1♣️ where the range
+starts at 14 or lower, such as some versions of MOSCITO.
+
+Double is a major-oriented takeout double. Power doubles are still included.
+Most of the balanced hands that would open 1♦️ fall into this category, but you
+should always have at least 4-3 in the majors. The exact point range is still to
+be determined, but should not be much lighter than an opening. Responses are
+similar to responding to a 1♦️ opening, but with an artificial negative response.
+Alternatively, you can think about this as similar to responding to a Polish
+Club.
+
+* After (1♣️) X (P)
+    * 1♦️ Usually 0-8 points, does not have a 4 card major if 7-8. Could be up to
+      10 with a long minor that does not want to bid NT.
+        * 1♥️ 4♥️s, may also have 4♠️s less than power double, nonforcing
+        * 1♠️ 4♠️s without 4♥️s, less than power double, nonforcing
+            * After these 1♥️ or 1♠️ bids, all bids are nonforcing, but both sides
+              should be inclined to bid if at the top of their range.
+        * 1NT 18-19 balanced
+            * 1NT systems are on
+        * 2♣️, 2♦️, 2♥️, 2♠️ Natural, power double strength
+    * 1♥️ 7+ points, 4+♥️s, forcing
+        * Continuations are the same as 1♦️-1♥️, including 2 way checkback when
+          applicable.
+    * 1♠️ 7+ points, 4+♠️s, forcing, usually longer ♠️ than ♥️
+        * Continuations are the same as 1♦️-1♠️, including 2 way checkback when
+          applicable.
+    * 1NT 9-11 balanced
+    * 2♣️ 11+ points, 5+♣️, forcing
+        * Same rebid structure as after 1♦️-2♣️
+    * 2♦️ 11+ points, 5+♦️, forcing
+        * Same rebid structure as after 1♦️-2♦️
+    * 2♥️ Weak, 6+♥️s
+        * Opener should still continue bidding with power double strength.
+    * 2♠️ Weak, 6+♠️s
+        * Opener should still continue bidding with power double strength.
+    * 2NT 12-13 balanced
+
+### Doubles of a purely strong (always 15+) 1♣️ or 1♦️
+
+This category includes Precision's 1♣️, Magic Diamond's 1♦️, and so on.
+
+Double shows 4-4 or better in the majors. Compared to doubling a standard 1♣️,
+the hand may be weaker. Because the opponents have made a strong opening, there
+is no emphasis on finding a game, and more emphasis on preempting when possible.
+This meaning also applies to doubling the artificial negative response (e.g.
+against Precision, (1♣️) P (1♦️) X would be majors).
+
+### Direct doubles of a natural 1♦️
+
+This category includes standard 1♦️, especially those that are paired with a "may
+be short" 1♣️ to guarantee 5. The original Precision 1♦️ also promised 4+, and
+would fall into this category.
+
+Double is takeout. However, there is still some major bias because it pays to be
+aggressive with overcalling 2♣️ with 5, as it makes it significantly more
+difficult for the opponents to find their 4-4 major fit.
+
+### Doubles of a "may be short" 1♦️
+
+This category includes modern Precision 1♦️ (whether 0+, 1+, or 2+).
+
+Double is 4-4 in majors with overcalling strength or a power double. Responses
+are like responding to a takeout double, but biased toward the majors.
+
+### Balancing doubles
+
+After the auction (1♣️) P (P), even if opener doesn't have clubs, responder
+generally will.
+
+Double is takeout.
