@@ -283,7 +283,60 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 2♣️ Stayman. The same weak hands are allowed as over the 14-16 1NT. With these
   weak hands you can also consider waiting for opponents to double and then
   utilize the runout system.
-* 2♦️! Game forcing Stayman
+* 2♦️! Game forcing relay. Opener describes their exact shape via a sequence of
+  bids. Responder can bid a game to sign off at any time. The general pattern is
+  for responder to bid the major they don't have, then disambiguate 4 cards or 5
+  cards, and then bid their doubleton, with the nearby bids filling in for
+  doubletons that would take too much space to bid directly.
+    * 2♥️! 4+♠️s, 3-♥️s, includes 4=3=3=3
+        * 2♠️! Relay
+            * 2NT! 5♠️s
+                * 3♣️! Relay
+                    * 3♦️! 5=3=2=3 (diamond doubleton)
+                    * 3♥️! 5=2=3=3 (heart doubleton)
+                    * 3♠️! 5=3=3=2 (black doubleton)
+            * 3♣️! 4=3=4=2 (club doubleton)
+            * 3♦️! 4=3=2=4 (diamond doubleton)
+            * 3♥️! 4=2=3=4 (major doubleton, numeric order to show the minors)
+            * 3♠️! 4=2=4=3 (major doubleton, numeric order to show the minors)
+            * 3NT! 4=3=3=3 (totally flat)
+    * 2♠️! 4+♥️s, 3-♠️s, excludes 3=4=3=3
+        * 2NT! Relay
+            * 3♣️! 5+♥️s
+                * 3♦️! Relay
+                    * 3♥️! 3=5=2=3 (red doubleton)
+                    * 3♠️! 2=5=3=3 (spade doubleton)
+                    * 3NT! 3=5=3=2 (club doubleton)
+            * 3♦️! 3=4=2=4 (diamond doubleton)
+            * 3♥️! 2=4=3=4 (major doubleton, numeric order to show the minors)
+            * 3♠️! 2=4=4=3 (major doubleton, numeric order to show the minors)
+            * 3NT! 3=4=4=2 (club doubleton)
+    * 2NT! 4=4 majors or 4=4 minors
+        * 3♣️! Relay
+            * 3♦️! 4=4=2=3 (diamond doubleton)
+            * 3♥️! 3=2=4=4 (heart doubleton)
+            * 3♠️! 2=3=4=4 (spade doubleton)
+            * 3NT! 4=4=3=2 (club doubleton)
+    * 3♣️! (4333) with the 4 in ♦️ or ♥️
+        * 3♦️! Relay
+            * 3♥️! 3=3=4=3 (don't bid hearts when you have them)
+            * 3♠️! 3=4=3=3
+    * 3♦️! 3=3=3=4
+    * 3♥️! 2=2=4=5
+    * 3♠️! 2=2=5=4
+    * After opener has shown their shape, a responder interested in slam may bid
+      the cheapest bid (or 4♣️ if the cheapest bid would be 3NT) to ask for
+      controls (A=2, K=1):
+        * Step 1: 0 controls
+        * Step 2: 1 control
+        * Step 3: 2 controls
+        * etc
+    * If the opponents double 2♦️, relays are on and redouble is an attempt to
+      cash in.
+    * Relays are off over any other interference over 2♦️. Doubles are penalty as
+      usual for game forcing auctions.
+    * If you've chosen to open a (24)(25) hand 1NT, show the major doubleton and
+      bid as if it's (24)(34) accordingly.
 * 2♥️ To play
 * 2♠️ To play
 * 2NT! Weak with both minors
