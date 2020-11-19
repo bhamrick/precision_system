@@ -288,15 +288,21 @@ all cases, but for the 2NT bids we use Puppet Stayman.
   for responder to bid the major they don't have, then disambiguate 4 cards or 5
   cards, and then bid their doubleton, with the nearby bids filling in for
   doubletons that would take too much space to bid directly.
-    * 2♥️! 4+♠️s, 3-♥️s, includes 4=3=3=3
+    * 2♥️! 3-♥️s, 4+♠️s or 33(25), includes 4=3=3=3
         * 2♠️! Relay
             * 2NT! 5♠️s
                 * 3♣️! Relay
                     * 3♦️! 5=3=2=3 (diamond doubleton)
                     * 3♥️! 5=2=3=3 (heart doubleton)
                     * 3♠️! 5=3=3=2 (black doubleton)
-            * 3♣️! 4=3=4=2 (club doubleton)
-            * 3♦️! 4=3=2=4 (diamond doubleton)
+            * 3♣️! 4=3=4=2 or 3=3=5=2 (club doubleton)
+                * 3♦️! Relay
+                    * 3♥️! 4=3=4=2
+                    * 3♠️! 3=3=5=2 (bidding spades denies spades)
+            * 3♦️! 4=3=2=4 or 3=3=2=5 (diamond doubleton)
+                * 3♥️! Relay
+                    * 3♠️! 3=3=2=5 (bidding spades denies spades)
+                    * 3NT! 4=3=2=4
             * 3♥️! 4=2=3=4 (major doubleton, numeric order to show the minors)
             * 3♠️! 4=2=4=3 (major doubleton, numeric order to show the minors)
             * 3NT! 4=3=3=3 (totally flat)
@@ -311,11 +317,23 @@ all cases, but for the 2NT bids we use Puppet Stayman.
             * 3♥️! 2=4=3=4 (major doubleton, numeric order to show the minors)
             * 3♠️! 2=4=4=3 (major doubleton, numeric order to show the minors)
             * 3NT! 3=4=4=2 (club doubleton)
-    * 2NT! 4=4 majors or 4=4 minors
+    * 2NT! 4=4 majors or 8 cards in minors (44 or 35)
         * 3♣️! Relay
             * 3♦️! 4=4=2=3 (diamond doubleton)
-            * 3♥️! 3=2=4=4 (heart doubleton)
-            * 3♠️! 2=3=4=4 (spade doubleton)
+            * 3♥️! 3=2=4=4, 3=2=3=5, or 3=2=5=3 (heart doubleton)
+                * 3♠️! Relay
+                    * 3NT! 3=2=3=5 (don't bid the suit you have, zoom with 44)
+                    * 4♣️! 3=2=5=3
+                    * 4♦️! 3=2=4=4 and 0 controls
+                    * 4♥️! 3=2=4=4 and 1 control
+                    * 4♠️! and higher, etc
+            * 3♠️! 2=3=4=4, 2=3=3=5, or 2=3=5=3 (spade doubleton)
+                * 4♣️! Relay
+                    * 4♦️! 2=3=3=5 (don't bid the suit you have, zoom with 44)
+                    * 4♥️! 2=3=5=3
+                    * 4♠️! 2=3=4=4 and 0 controls
+                    * 4NT! 2=3=4=4 and 1 control
+                    * 5♣️! and higher, etc
             * 3NT! 4=4=3=2 (club doubleton)
     * 3♣️! (4333) with the 4 in ♦️ or ♥️
         * 3♦️! Relay
