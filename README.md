@@ -64,7 +64,6 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 26-27 1♣️!-1♦️!-3NT
 * 28+ 1♣️!-1♦️!-2♥️!-2♠️!-3NT
 
-
 # Responses
 
 ## After 1♣️!
@@ -196,6 +195,10 @@ all cases, but for the 2NT bids we use Puppet Stayman.
         * 2M 3 card support
         * 2OM 4 card unbid major
     * 2M Pulling for partscore, less than invitational values
+    * 2♥️ (after 1♦️-1♠️-1NT) Nonforcing, 5+♠️, 4+♥️, longer spades
+    * 2NT! Transfer to clubs
+    * 3M Game forcing with 6+ cards, at least mild slam interest
+    * 4M To play, generally 6+ cards, no slam interest.
 * Checkback also applies after 1♦️-1♥️-1♠️, with one addition
     * 1NT Nonforcing and less than invitational. With a hand unsuitable for
       playing 1NT, opener bids 2♣️ with a minor two-suiter or 2♦️ with long
@@ -420,7 +423,7 @@ looking for a fit in one of responder's suits.
     * 3♦️! No 5 card major, have 4 card major
         * 3♥️! Is the major spades?
             * 3NT No
-            * 4♠️ Yes
+            * 3♠️ Yes
         * 3♠️! Is the major hearts?
             * 3NT No
             * 4♥️ Yes
@@ -518,7 +521,7 @@ auction or to a one level opening.
     * 3♦️! No 5 card major, have 4 card major
         * 3♥️! Is the major spades?
             * 3NT No
-            * 4♠️ Yes
+            * 3♠️ Yes
         * 3♠️! Is the major hearts?
             * 3NT No
             * 4♥️ Yes
@@ -802,12 +805,13 @@ Example situation: 1NT-(2♥️)-?
 * 3♠️ Natural and game forcing
 * 3NT To play
 
-### After a takeout double of an opposing weak 2
+### After a takeout double of an opposing weak or intermediate 2
 
-If the opponents open a weak 2♦️, 2♥️, or 2♠️, and our side doubles for takeout,
-2NT is a relay to 3♣️ to show a weak hand (generally 0-7). Unlike in the previous
-situation, sometimes the doubler will break the relay to show a very strong hand
-that has interest in going further despite the 0-7 points.
+If the opponents open a weak or intermediate 2♣️, 2♦️, 2♥️, or 2♠️, showing the suit
+bid and our side doubles for takeout, 2NT is a relay to 3♣️ to show a weak hand
+(generally 0-7).  Unlike in the previous situation, sometimes the doubler will
+break the relay to show a very strong hand that has interest in going further
+despite the 0-7 points.
 
 Example situation: (2♥️)-X-?
 * 2♠️ Natural and weak
@@ -916,6 +920,8 @@ is no emphasis on finding a game, and more emphasis on preempting when possible.
 This meaning also applies to doubling the artificial negative response (e.g.
 against Precision, (1♣️) P (1♦️) X would be majors).
 
+In addition, over these openings 1NT shows both minors (Mathe).
+
 ### Direct doubles of a natural 1♦️
 
 This category includes standard 1♦️, especially those that are paired with a "may
@@ -925,6 +931,9 @@ would fall into this category.
 Double is takeout. However, there is still some major bias because it pays to be
 aggressive with overcalling 2♣️ with 5, as it makes it significantly more
 difficult for the opponents to find their 4-4 major fit.
+
+In the sequence (1♦️)-X-1M-1NT, where the doubler has shown 18-20 and essentially
+denied 4 card support, 2 way checkback is on.
 
 ### Doubles of a "may be short" 1♦️
 
@@ -939,3 +948,6 @@ After the auction (1♣️) P (P), even if opener doesn't have clubs, responder
 generally will.
 
 Double is takeout.
+
+In the auction (1♣️)-P-X-1M-1NT, where the doubler has shown 18-20 and
+effectively denied 4 card support, 2 way checkback is on.
