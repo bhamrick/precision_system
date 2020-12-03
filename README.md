@@ -479,12 +479,11 @@ looking for a fit in one of responder's suits.
 * 2NT! Forcing asking bid, invitational or better
     * 3♣️! 3=4=1=5
         * 3♦️! Asks opener to bid 3♥️! with a minimum, cheapest cue bid of an ace
-          or king with a maximum. Use 3NT for a diamond cue, 4♦️ for a heart
-          cue, and 4♥️ to deny all aces and kings.
+          or king with a maximum. Use 3NT for a diamond cue, and 4♦️ for a heart
+          cue.
     * 3♦️! 4=3=1=5
         * 3♥️! Asks opener to bid 3♠️! with a minimum, cheapest cue bid of an ace
-          or king with a maximum. Use 3NT for a diamond cue, 4♦️ for a spade cue,
-          and 4♠️ to deny all aces and kings.
+          or king with a maximum. Use 3NT for a diamond cue, and 4♦️ for a spade cue.
     * 3♥️! 4=4=1=4 minimum
     * 3♠️! 4=4=1=4 maximum
     * 3NT! 4=4=1=4 maximum with A/K of ♦️
