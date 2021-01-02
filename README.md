@@ -781,6 +781,23 @@ Example 4: After P-1♣️!-1♥️-1♠️-3♣️!, note that the initial pass
         * Fifth step 2 outside keycards with the trump queen
     * 3 keycards doesn't need a response because initiator will need to have one
       or else the 2 keycard response takes the auction too high.
+* Minorwood
+    * 4 of a minor is the keycard ask if the following conditions are met:
+        * We are in a game forcing auction
+        * We have not established a major fit
+        * We have established a fit in the minor (even if it was implied or if
+          4m is the first time it is shown).
+    * Responses are the usual 1430 responses in steps.
+        * First step 1 or 4
+        * Second step 0 or 3
+        * Third step 2 without queen
+        * Fourth step 2 with queen
+    * If available, the step up from the response is the queen ask, but 4NT is
+      always to play and not the queen ask.
+    * If clubs are trump, 5♦️ is the king ask, and if diamonds are trump, 5♥️ is
+      the king ask. The 5NT response stands in to show the king of the suit used
+      to ask.
+    * If both Minorwood and SRAAACA would apply, Minorwood takes precedence.
 
 ## Lebensohl
 
