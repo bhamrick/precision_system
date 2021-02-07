@@ -453,6 +453,9 @@ looking for a fit in one of responder's suits.
 * 4♦️\* Texas transfer to ♠️
 * 4♥️ To play
 * 4♠️ To play
+* Systems are on over X and 2♣️
+    * After 1NT-(X), XX is running with either a single minor or both majors.
+* Over any interference, Texas transfers are on if the 4♣️ or 4♦️ bid is a jump.
 
 ## After 2♣️!
 
