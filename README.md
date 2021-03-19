@@ -898,6 +898,12 @@ Example situation: (2♥️)-X-?
 * 3♠️ Natural and game forcing
 * 3NT To play
 
+## Cue bid of an opposing weak 2
+
+After the opponents open with a weak 2, the direct cue bid is a stopper ask,
+showing a hand that is looking for 3NT but lacks a stopper and is unsuitable
+for a takeout double.
+
 ## 3-suit Keycard
 
 If opener has shown a 3-suited hand (for example, after a 2♦️ opening), then 4♣️,
