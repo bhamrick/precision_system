@@ -33,12 +33,11 @@ opener's rebid are delayed alerts instead.
 
 * 1♣️! 16+ unbalanced or 17+ balanced (except 2NT opening hands)
 * 1♦️\* Good 10-15 catchall (always 3+♦️s or balanced, always 2+♦️s), can be a
-  balanced 16 in 1st or 2nd seat nonvul, as 1NT is 10-12 in those seats.
+  balanced 16 in 1st or 2nd seat nonvul, as 1NT is 11-13 in those seats.
 * 1♥️ Good 10-15 5+♥️s
 * 1♠️ Good 10-15 5+♠️s
 * 1NT\*
-    * In first and second seat nonvulnerable, 10-12 balanced, maybe bad 13s.
-      ABSOLUTELY NO UPGRADES OF NINE POINT HANDS (Illegal in ACBL events).
+    * In first and second seat nonvulnerable, 11-13 balanced.
     * In all other situations, 14-16 balanced.
     * Balanced hands including 5 card majors are opened 1NT if they are in the
       appropriate point range.
@@ -278,7 +277,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 3♥️!/3♠️! Preemptive raise. Less than invitational with 4+ card support.
 * 4♥️!/4♠️! To play, no slam interest.
 
-## After 10-12 1NT
+## After 11-13 1NT
 
 * 2♣️ Stayman. The same weak hands are allowed as over the 14-16 1NT. With these
   weak hands you can also consider waiting for opponents to double and then
@@ -358,7 +357,7 @@ all cases, but for the 2NT bids we use Puppet Stayman.
 * 2♥️ To play
 * 2♠️ To play
 * 2NT! Weak with both minors
-* 3♣️!/3♦️!/3♥️!/3♠️! Preemptive natural
+* 3♣️/3♦️/3♥️/3♠️ Invitational natural (usually 6 cards for the minors)
 * 3NT To play
 * 4♣️! Texas transfer to hearts
 * 4♦️! Texas transfer to spades
