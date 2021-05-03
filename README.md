@@ -901,8 +901,10 @@ Example situation: (2♥️)-X-?
 ## Cue bid of an opposing weak 2
 
 After the opponents open with a weak 2, the direct cue bid is a stopper ask,
-showing a hand that is looking for 3NT but lacks a stopper and is unsuitable
-for a takeout double.
+showing a hand that is looking for 3NT, but lacks a stopper and is unsuitable
+for a takeout double. The exact nature of the hand is unspecified; it could be
+a strong balanced hand without a stopper or a hand with a likely running
+suit.
 
 ## 3-suit Keycard
 
