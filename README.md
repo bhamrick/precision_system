@@ -441,21 +441,26 @@ looking for a fit in one of responder's suits.
         * Others are game forcing
     * 3♦️! Good hand and support
         * Further bids by responder are game forcing
-* 3♣️! Game forcing puppet stayman
-    * 3♦️! No 5 card major, have 4 card major
-        * 3♥️! Is the major spades?
+* 3♣️! Game forcing puppet stayman; "low information" version
+    * 3♦️! No 5 card major
+        * 3♥️! Asks for 4 spades
+            * 3♠️ Yes
             * 3NT No
-            * 4♠️ Yes
-        * 3♠️! Is the major hearts?
+        * 3♠️! Asks for 4 hearts
             * 3NT No
             * 4♥️ Yes
+        * After a 4 card major ask and then 3NT, South African Texas transfers
+          are available, which could be done with some unusual holdings like
+          6/4 in majors (check for a 4-4 fit, then transfer to the 6 card suit
+          if not).
     * 3♥️ 5♥️s
     * 3♠️ 5♠️s
-    * 3NT! No 4 or 5 card major
-        * 4♣️! Transfer to ♥️ (made with unusual lengths such as 6/4 in majors)
-        * 4♦️! Transfer to ♠️ (made with unusual lengths such as 6/4 in majors)
-        * 4♥️ To play (made with unusal lengths and desire to declare)
-        * 4♠️ To play (made with unusal lengths and desire to declare)
+    * This version of puppet is "low information" because opener doesn't
+      guarantee a 4 card major with the 3♦️ bid. This is possible over 1NT
+      because responder will never want to ask about both majors after choosing
+      puppet. If they cared about 4 card support in both majors (for example
+      with 4/4 or 5/4 in majors) they would have started with 2♣️ for regular
+      stayman.
 * 3♦️! Game forcing with 5-5 majors
     * Opener's rebids follow fast arrival.
     * 3♥️/3♠️ Fit with a not terrible hand.
@@ -596,16 +601,18 @@ auction or to a one level opening.
   nonforcing, and redouble is SOS showing a desire to run but without a clear
   suit preference.
 
-## After 2NT or 1♣️!-1♦️!-2NT
+## After 2NT, 1♣️!-1♦️!-2NT, or 1♣️!-1♦️!-2♥️!-2♠️!-2NT
 
 * 3♣️! Game forcing puppet stayman
     * 3♦️! No 5 card major, have 4 card major
-        * 3♥️! Is the major spades?
+        * 3♥️! Asks for 4 spades
+            * 3♠️ Yes
             * 3NT No
-            * 4♠️ Yes
-        * 3♠️! Is the major hearts?
+        * 3♠️! Asks for 4 hearts
             * 3NT No
             * 4♥️ Yes
+        * South African Texas available after asking for a 4 card major and
+          getting a negative response.
     * 3♥️ 5♥️s
     * 3♠️ 5♠️s
     * 3NT! No 4 or 5 card major
@@ -613,6 +620,10 @@ auction or to a one level opening.
         * 4♦️! Transfer to ♠️ (made with unusual lengths such as 6/4 in majors)
         * 4♥️ To play (made with unusal lengths and desire to declare)
         * 4♠️ To play (made with unusal lengths and desire to declare)
+    * Note that this is "high information" puppet stayman, as there was no
+      regular stayman available so 3♦️ promising a 4 card major ensures that
+      responder can rely on 4 card support for the other major after opener
+      denies the first one.
 * 3♦️\* Jacoby transfer to ♥️
 * 3♥️\* Jacoby transfer to ♠️
 * 3NT To play
