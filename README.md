@@ -392,17 +392,25 @@ looking for a fit in one of responder's suits.
         * Garbage stayman (3 suited hand with short clubs)
         * Crawling stayman (weak hand with both majors)
         * Weak hand with a 4 card major and a long (probably 6) card minor
-        * With invitational and 5/4 majors instead start by transferring to the
-          5 card major.
+        * With a serious invite and 5/4 majors instead start by transferring to
+          the 5 card major.
+            * With a 5/4 major hand that only occaisionally wants to invite
+              across fitting hands, start with Stayman.
     * 2♦️ No 4+ card major
         * Pass Garbage stayman or weak with a major and long ♦️s
-        * 2♥️ Crawling stayman - weak with both majors
-        * 3♣️! Signoff - weak with a 4 card major and long ♣️s
+        * 2♥️ Crawling stayman - weak with both majors. Could be 4-4 for
+          tactical reasons, but will have longer or equal hearts.
+            * Opener passes except with exactly 3♠️s and 2♥️s
+        * 2♠️ Weak with 5♠️s and 4♥️s
+        * 2NT Invitational
+        * 3♣️!/3♦️! Signoff - weak with a 4 card major and 6 cards in the bid minor
         * 3♥️! Smolen - Game forcing with 5♠️s and 4♥️s
         * 3♠️! Smolen - Game forcing with 5♥️s and 4♠️s
     * 2♥️ 4+♥️s, could have 4♠️s
-        * 2♠️! Nonforcing, shows the weak hand with 4♠️s and a long minor
-        * 2NT Invitational without heart fit (implies a 4 card ♠️ suit)
+        * 2♠️ Bad invite with 4♠️s.
+        * 2NT Invitational without heart fit (implies a 4 card ♠️ suit),
+          slightly stronger than hands that would bid 2♠️
+        * 3♣️/3♦️ Weak with 4♠️s and 6 cards in the bid minor
         * 3♥️ Invitational with a heart fit. Opener can bid 3NT to accept if they
           want to offer a choice of games.
         * 3♠️! Slam try in ♥️s
