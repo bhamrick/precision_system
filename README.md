@@ -448,6 +448,24 @@ looking for a fit in one of responder's suits.
         * 4♦️! Transfer to ♠️ (made with unusual lengths such as 6/4 in majors)
         * 4♥️ To play (made with unusal lengths and desire to declare)
         * 4♠️ To play (made with unusal lengths and desire to declare)
+* 3♦️! Game forcing with 5-5 majors
+    * Opener's rebids follow fast arrival.
+    * 3♥️/3♠️ Fit with a not terrible hand.
+    * 3NT Good holdings in both minors, no good fit.
+    * 4♥️/4♠️ Fit with a bad hand.
+* 3♥️! Game forcing 31(45) (Short ♥️)
+    * 3♠️ Fit with a not terrible hand.
+    * 3NT Game preference, showing good stoppers in ♥️
+    * 4♣️/4♦️ Strong hand with minor fit. Starts a control bidding sequence
+      instead of Minorwood because responder is better suited to be captain.
+    * 4♥️ Strong slam try in ♠️ (5 card suit and appropriately placed honors).
+    * 4♠️/5♣️/5♦️ Weaker hands with the shown fit.
+* 3♠️! Game forcing 13(45) (Short ♠️)
+    * 3NT Game preference, showing good stoppers in ♠️
+    * 4♣️/4♦️ Strong hand with minor fit. Starts a control bidding sequence
+      instead of Minorwood because responder is better suited to be captain.
+    * 4♥️/5♣️/5♦️ Weaker hands with the shown fit.
+    * 4♠️ Strong slam try in ♥️ (5 card suit and appropriately placed honors).
 * 4♣️\* Texas transfer to ♥️
 * 4♦️\* Texas transfer to ♠️
 * 4♥️ To play
