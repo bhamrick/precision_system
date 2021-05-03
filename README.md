@@ -651,10 +651,65 @@ Example: After 1♣️!-(2♥️)
 * Double is game forcing values without clear direction, more penalty oriented
   at higher levels
 
-## After 1M-(?)
+## After an opposing takeout double
 
-* 2M support can be less than invitational
+### After 1♦️-(X)
+
+XX, 1♥️, and 1♠️ are transfers. 1NT becomes invitational (like a 2NT bid without
+interference), and higher bids retain their meaning as if the double did not
+happen.
+
+* XX! 4+♥️, forcing
+    * After 1♦️-(X)-XX-(P), 1♥️ shows 3 card support (similar to a support
+      double), and 2♥️ shows 4 card support.
+* 1♥️! 4+♠️, forcing
+    * After 1♦️-(X)-1♥️-(P), 1♠️ shows 3 card support (similar to a support
+      double), and 2♠️ shows 4 card support.
+* 1♠️! Generally a puppet to 1NT, either to pass or to sign off in 2 of a minor.
+    * Opener can 2♣️ or 2♦️ directly with hands that would do that if the auction
+      went 1♦️-(P)-1NT-(P).
+* 1NT Invitational, like if the auction went 1♦️-(P)-2NT
+* XYZ applies after XX and 1♥️ if opener's rebid is at 1 level.
+
+### After 1M-(X)
+
+Bids are transfers starting with XX and ending at the bid below 2M.
+
+* After 1♥️-(X)
+    * XX! 4+♠️, forcing
+        * 1♠️ shows 3 card support
+        * 2♠️ shows 4 card support
+    * 1♠️! Transfer to 1NT
+        * Opener rebids like after a semiforcing 1NT, except with pass replaced
+          by 1NT.
+    * 1NT! 5+♣️
+    * 2♣️! 5+♦️
+    * 2♦️! Strong ♥️ raise
+    * 2♥️ Simple ♥️ raise
+* After 1♠️-(X)
+    * XX! Transfer to 1NT
+        * Opener rebids like after a semiforcing 1NT, except with pass replaced
+          by 1NT.
+    * 1NT! 5+♣️
+    * 2♣️! 5+♦️
+    * 2♦️! 5+♥️
+    * 2♥️! Strong ♠️ raise
+    * 2♠️ Simple ♠️ raise
+* For transfers to new suits, opener treats them like [negative free
+  bids](https://en.wikipedia.org/wiki/Negative_free_bid) and completes the
+  transfer unless they have both extras and a lack of tolerance for the suit.
+* After the transfer is completed, responder can continue to bid naturally to
+  show constructive values.
+* After a transfer to opener's suit (showing a strong raise), opener rebids 2M
+  with a minimum, and all other bids are natural implying extras.
+* XYZ applies after 1♥️-(X)-XX-(P)-1♠️/1NT.
+
+## After 1M-(?) (except double)
+
+* 2M is a simple raise (generally 6-9, maybe a bad 10)
+* Cue bid is a limit+ raise
 * Jump raise is preemptive
+* Double is negative
 
 # Defensive Conventions
 
