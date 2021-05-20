@@ -935,6 +935,21 @@ Example situation: (2♥️)-X-?
 * 3♠️ Natural and game forcing
 * 3NT To play
 
+## Unusual vs Unusual
+
+If the opponents make a bid showing two known suits (such as Michael's or
+Unusual 2NT), then a cue bid of the lower suit is a stronger bid of the lower
+unshown suit, and a cue bid of the higher suit is a stronger bid of the higher
+unshown suit. Strength for the cue bids is usually inv+, or 8-10 if by a passed
+hand. As a consequence, bidding one of the other two suits naturally is merely
+competitive.
+
+Examples:
+* After 1♦️-(2♦️), if 2♦️ shows both majors then 2♥️ is a strong club bid and 2♠️ is
+  a strong diamond bid.
+* After 1♥️-(2NT) showing both minors, 3♣️ is a strong heart raise, and 3♦️ is a
+  strong spade bid.
+
 ## Cue bid of an opposing weak 2
 
 After the opponents open with a weak 2, the direct cue bid is a stopper ask,
