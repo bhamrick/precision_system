@@ -121,15 +121,15 @@ all cases, but for the 2NT bids we use Puppet Stayman.
   forcing values, responder typically starts with 1♥️.
     * 1♠️ 4♠️s, possibly balanced
         * 2-way checkback is on
-        * 2♠️ General invite with 4♠️s
+        * 2♠️ Simple raise (invite would go through 2♣️)
         * Bids above 2♠️ are game tries with a spade fit, with the same meaning
           as if the bidding started 1♦️-1♠️-2♠️.
-    * 1NT 11-13 balanced, denies 4♠️s
+    * 1NT Balanced outside of the 1NT opening range, denies 4♠️s
     * 2♣️ 5/4+ in the minors, unbalanced. Either minor may be longer.
     * 2♦️ 6+♦️s without significant extra strength.
     * 2♥️ 4♥️s any strength
 * 1♠️ 4+♠️s, one round forcing.
-    * 1NT 11-13 balanced
+    * 1NT Balanced outside of the 1NT opening range.
     * 2♣️ 5/4+ in the minors, unbalanced. Either minor may be longer.
     * 2♦️ 6+♦️s without significant extra strength.
     * 2♥️! Exactly 3=4=5=1, any strength
@@ -255,16 +255,16 @@ all cases, but for the 2NT bids we use Puppet Stayman.
         * 3♦️! Asks (Compare these responses to the immediate response to 2NT with
           a max)
             * 3♥️! Singleton, no long side suit
-                * 3♠️! Asks where (use 4♥️! for spades when hearts are trump)
+                * 3♠️! Asks where (use 3NT! for the other major)
             * 3♠️ Unused
             * 3NT! No singleton or long side suit
             * 4♣️! 5+ card club suit
             * 4♦️! 5+ card diamond suit
             * 4♥️! 5+ cards in the other major
     * 3♦️! Minimum with a void
-        * 3♥️! Asks where (use 3♠️! for the other major)
+        * 3♥️! Asks where (use 3♠️! for the other major and 3NT! for diamonds)
     * 3♥️! Maximum with a singleton, no void or long side suit
-        * 3♠️! Asks where (use 4♥️! for spades when hearts are trump)
+        * 3♠️! Asks where (use 3NT! for the other major)
     * 3♠️! Maximum with a void
         * 3NT! Asks where (use 4♥️! for spades when hearts are trump)
     * 3NT! Maximum with no singleton, void, or long side suit
