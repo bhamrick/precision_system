@@ -1,5 +1,10 @@
 # Miscellaneous
 
+* Tactical Deviations
+    * Judgment may be used to use a bid that is technically a lie if it
+      describes the hand better or is likely to lead to better outcomes
+      practically. For example, it is allowed to hide a very weak 4 card suit,
+      treating it as 3 cards.
 * RKC 1430
     * Jump to 4NT after a suit-showing bid without an agreed denomination
       implicitly agrees the suit just shown.
