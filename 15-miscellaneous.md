@@ -169,7 +169,7 @@ impossible to keycard in spades, and 5NT is instead the king ask.
 
 ## Doubles of an opponent's 1 minor opening
 
-### Direct doubles of 1♣️ that contains weak (less than 15) options
+### Direct doubles of 1:clubs: that contains weak (less than 15) options
 
 This category includes standard 1♣️, Polish Club, "may be short" 1♣️ with transfer
 responses, Tangerine Club, and so on. It also includes strong 1♣️ where the range
@@ -210,7 +210,7 @@ Club.
         * Opener should still continue bidding with power double strength.
     * 2NT 12-13 balanced
 
-### Doubles of a purely strong (always 15+) 1♣️ or 1♦️
+### Doubles of a purely strong (always 15+) 1:clubs: or 1:diamonds:
 
 This category includes Precision's 1♣️, Magic Diamond's 1♦️, and so on.
 
@@ -220,7 +220,7 @@ is no emphasis on finding a game, and more emphasis on preempting when possible.
 This meaning also applies to doubling the artificial negative response (e.g.
 against Precision, (1♣️) P (1♦️) X would be majors).
 
-### Direct doubles of a natural 1♦️
+### Direct doubles of a natural 1:diamonds:
 
 This category includes standard 1♦️, especially those that are paired with a "may
 be short" 1♣️ to guarantee 5. The original Precision 1♦️ also promised 4+, and
@@ -230,7 +230,7 @@ Double is takeout. However, there is still some major bias because it pays to be
 aggressive with overcalling 2♣️ with 5, as it makes it significantly more
 difficult for the opponents to find their 4-4 major fit.
 
-### Doubles of a "may be short" 1♦️
+### Doubles of a "may be short" 1:diamonds:
 
 This category includes modern Precision 1♦️ (whether 0+, 1+, or 2+).
 

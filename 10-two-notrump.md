@@ -1,4 +1,4 @@
-# After 2NT, 1♣️!-1♦️!-2NT, or 1♣️!-1♦️!-2♥️!-2♠️!-2NT
+# After 2NT, 1:clubs:!-1:diamonds:!-2NT, or 1:clubs:!-1:diamonds:!-2:hearts:!-2:spades:!-2NT
 
 * 3♣️! Game forcing puppet stayman
     * 3♦️! No 5 card major, have 4 card major

@@ -1,4 +1,4 @@
-# After 2♦️!
+# After 2:diamonds:!
 
 * 2♥️! Natural, signoff
 * 2♠️! Natural, signoff

@@ -1,4 +1,4 @@
-# After 14-16 1NT or 1♣️!-1♦️!-1NT
+# After 14-16 1NT or 1:clubs:!-1:diamonds:!-1NT
 
 * 2♣️ Stayman
     * Could be several hand types, but always includes a 4 card major:

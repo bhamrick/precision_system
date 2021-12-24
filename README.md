@@ -2,23 +2,25 @@
 -   [Notation](#notation)
 -   [Openings](#openings)
     -   [Notrump ranges](#notrump-ranges)
--   [After 1♣️!](#after-1)
--   [After 1♦️\*](#after-1-1)
--   [After 1♥️/1♠️](#after-11)
+-   [After 1:clubs:!](#after-1clubs)
+-   [After 1:diamonds:\*](#after-1diamonds)
+-   [After 1:hearts:/1:spades:](#after-1hearts1spades)
 -   [After 11-13 1NT](#after-11-13-1nt)
     -   [Runouts after 1NT-X or
         1NT-P-P-X-P-P](#runouts-after-1nt-x-or-1nt-p-p-x-p-p)
--   [After 14-16 1NT or 1♣️!-1♦️!-1NT](#after-14-16-1nt-or-1-1-1nt)
--   [After 2♣️!](#after-2)
--   [After 2♦️!](#after-2-1)
--   [After 2♥️/2♠️](#after-22)
--   [After 2NT, 1♣️!-1♦️!-2NT, or
-    1♣️!-1♦️!-2♥️!-2♠️!-2NT](#after-2nt-1-1-2nt-or-1-1-2-2-2nt)
+-   [After 14-16 1NT or
+    1:clubs:!-1:diamonds:!-1NT](#after-14-16-1nt-or-1clubs-1diamonds-1nt)
+-   [After 2:clubs:!](#after-2clubs)
+-   [After 2:diamonds:!](#after-2diamonds)
+-   [After 2:hearts:/2:spades:](#after-2hearts2spades)
+-   [After 2NT, 1:clubs:!-1:diamonds:!-2NT, or
+    1:clubs:!-1:diamonds:!-2:hearts:!-2:spades:!-2NT](#after-2nt-1clubs-1diamonds-2nt-or-1clubs-1diamonds-2hearts-2spades-2nt)
 -   [After 3NT! (Gambling)](#after-3nt-gambling)
 -   [After 3+ level preempts from our
     side](#after-3-level-preempts-from-our-side)
 -   [Over Interference](#over-interference)
-    -   [Direct interference over 1♣️!](#direct-interference-over-1)
+    -   [Direct interference over
+        1:clubs:!](#direct-interference-over-1clubs)
         -   [Over 1X (or Double)](#over-1x-or-double)
         -   [Over 2X](#over-2x)
         -   [Over 3X and higher](#over-3x-and-higher)
@@ -44,14 +46,15 @@
     -   [3-suit Keycard](#suit-keycard)
     -   [Doubles of an opponent’s 1 minor
         opening](#doubles-of-an-opponents-1-minor-opening)
-        -   [Direct doubles of 1♣️ that contains weak (less than 15)
-            options](#direct-doubles-of-1-that-contains-weak-less-than-15-options)
-        -   [Doubles of a purely strong (always 15+) 1♣️ or
-            1♦️](#doubles-of-a-purely-strong-always-15-1-or-1)
+        -   [Direct doubles of 1:clubs: that contains weak (less
+            than 15)
+            options](#direct-doubles-of-1clubs-that-contains-weak-less-than-15-options)
+        -   [Doubles of a purely strong (always 15+) 1:clubs: or
+            1:diamonds:](#doubles-of-a-purely-strong-always-15-1clubs-or-1diamonds)
         -   [Direct doubles of a natural
-            1♦️](#direct-doubles-of-a-natural-1)
+            1:diamonds:](#direct-doubles-of-a-natural-1diamonds)
         -   [Doubles of a “may be short”
-            1♦️](#doubles-of-a-may-be-short-1)
+            1:diamonds:](#doubles-of-a-may-be-short-1diamonds)
         -   [Balancing doubles](#balancing-doubles)
 
 # Guiding Principles
@@ -125,7 +128,7 @@ on in all cases, but for the 2NT bids we use Puppet Stayman.
 -   26-27 1♣️!-1♦️!-3NT
 -   28+ 1♣️!-1♦️!-2♥️!-2♠️!-3NT
 
-# After 1♣️!
+# After 1:clubs:!
 
 -   1♦️! Negative 0-7, all other bids are game forcing
     -   1♥️ 16-21 5+♥️s, nonforcing
@@ -177,7 +180,7 @@ on in all cases, but for the 2NT bids we use Puppet Stayman.
 -   3♣️! 8+ 4441 singleton club
 -   3♦️! 8+ 4441 singleton diamond
 
-# After 1♦️\*
+# After 1:diamonds:\*
 
 -   1♥️ 4+♥️s, one round forcing. With 4/4 spades and hearts and less
     than game forcing values, responder typically starts with 1♥️.
@@ -289,7 +292,7 @@ on in all cases, but for the 2NT bids we use Puppet Stayman.
             and decides whether to bid game or not. Maximal hands may
             choose to play game even with wasted values.
 
-# After 1♥️/1♠️
+# After 1:hearts:/1:spades:
 
 -   1♥️-1♠️ 4+♠️s, one round forcing
     -   After 1♥️-1♠️-1NT, 2 way checkback is on with similar structure
@@ -471,7 +474,7 @@ shows at least invitational values and is forcing. Any suit bid by
 opener other than the cheapest one shows a good 5 card suit suggesting
 to play there rather than looking for a fit in one of responder’s suits.
 
-# After 14-16 1NT or 1♣️!-1♦️!-1NT
+# After 14-16 1NT or 1:clubs:!-1:diamonds:!-1NT
 
 -   2♣️ Stayman
     -   Could be several hand types, but always includes a 4 card major:
@@ -582,7 +585,7 @@ to play there rather than looking for a fit in one of responder’s suits.
 -   Over any interference, Texas transfers are on if the 4♣️ or 4♦️ bid
     is a jump.
 
-# After 2♣️!
+# After 2:clubs:!
 
 -   2♦️! Asks for 4 card major, invitational or better, may not have a 4
     card major. Maximum responses establish a game force. ON for passed
@@ -636,7 +639,7 @@ to play there rather than looking for a fit in one of responder’s suits.
     case of 6-4 majors, responder should go through 2♦️ to check for the
     possible 4-4 fit.
 
-# After 2♦️!
+# After 2:diamonds:!
 
 -   2♥️! Natural, signoff
 -   2♠️! Natural, signoff
@@ -668,7 +671,7 @@ to play there rather than looking for a fit in one of responder’s suits.
 -   5♦️ To play
 -   2NT! and 3♦️! are ON in competition.
 
-# After 2♥️/2♠️
+# After 2:hearts:/2:spades:
 
 Here M refers to the opened major and X refers to any other suit. A
 feature is generally an ace or king, and never shortage. The meanings of
@@ -701,7 +704,7 @@ a better constructive auction or to a one level opening.
     nonforcing, and redouble is SOS showing a desire to run but without
     a clear suit preference.
 
-# After 2NT, 1♣️!-1♦️!-2NT, or 1♣️!-1♦️!-2♥️!-2♠️!-2NT
+# After 2NT, 1:clubs:!-1:diamonds:!-2NT, or 1:clubs:!-1:diamonds:!-2:hearts:!-2:spades:!-2NT
 
 -   3♣️! Game forcing puppet stayman
     -   3♦️! No 5 card major, have 4 card major
@@ -744,7 +747,7 @@ a better constructive auction or to a one level opening.
 
 # Over Interference
 
-## Direct interference over 1♣️!
+## Direct interference over 1:clubs:!
 
 Because there will be a wide variety of styles of interference, both
 natural and artificial, we will avoid ascribing any artificial meaning
@@ -1107,7 +1110,7 @@ instead the king ask.
 
 ## Doubles of an opponent’s 1 minor opening
 
-### Direct doubles of 1♣️ that contains weak (less than 15) options
+### Direct doubles of 1:clubs: that contains weak (less than 15) options
 
 This category includes standard 1♣️, Polish Club, “may be short” 1♣️
 with transfer responses, Tangerine Club, and so on. It also includes
@@ -1154,7 +1157,7 @@ can think about this as similar to responding to a Polish Club.
             strength.
     -   2NT 12-13 balanced
 
-### Doubles of a purely strong (always 15+) 1♣️ or 1♦️
+### Doubles of a purely strong (always 15+) 1:clubs: or 1:diamonds:
 
 This category includes Precision’s 1♣️, Magic Diamond’s 1♦️, and so on.
 
@@ -1165,7 +1168,7 @@ emphasis on preempting when possible. This meaning also applies to
 doubling the artificial negative response (e.g. against Precision, (1♣️)
 P (1♦️) X would be majors).
 
-### Direct doubles of a natural 1♦️
+### Direct doubles of a natural 1:diamonds:
 
 This category includes standard 1♦️, especially those that are paired
 with a “may be short” 1♣️ to guarantee 5. The original Precision 1♦️
@@ -1176,7 +1179,7 @@ pays to be aggressive with overcalling 2♣️ with 5, as it makes it
 significantly more difficult for the opponents to find their 4-4 major
 fit.
 
-### Doubles of a “may be short” 1♦️
+### Doubles of a “may be short” 1:diamonds:
 
 This category includes modern Precision 1♦️ (whether 0+, 1+, or 2+).
 

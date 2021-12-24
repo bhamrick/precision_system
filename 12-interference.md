@@ -1,6 +1,6 @@
 # Over Interference
 
-## Direct interference over 1♣️!
+## Direct interference over 1:clubs:!
 
 Because there will be a wide variety of styles of interference, both natural and
 artificial, we will avoid ascribing any artificial meaning to bids that would
