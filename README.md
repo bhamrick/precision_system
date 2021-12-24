@@ -1183,7 +1183,8 @@ fit.
 
 This category includes modern Precision 1♦️ (whether 0+, 1+, or 2+).
 
-Double is 4-4 in majors with overcalling strength or a power double.
+Double is takeout of either minor (either minor can be the short suit),
+which typically means that it will have at least 4-3 in majors.
 Responses are like responding to a takeout double, but biased toward the
 majors.
 
