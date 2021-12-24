@@ -1,4 +1,4 @@
-# After 2♣️!
+# After 2:clubs:!
 
 * 2♦️! Asks for 4 card major, invitational or better, may not have a 4 card
   major. Maximum responses establish a game force. ON for passed hands (fitting

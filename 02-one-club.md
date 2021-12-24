@@ -1,4 +1,4 @@
-# After 1♣️!
+# After 1:clubs:!
 
 * 1♦️! Negative 0-7, all other bids are game forcing
     * 1♥️ 16-21 5+♥️s, nonforcing

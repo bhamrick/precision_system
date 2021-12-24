@@ -1,4 +1,4 @@
-# After 1♥️/1♠️
+# After 1:hearts:/1:spades:
 
 * 1♥️-1♠️ 4+♠️s, one round forcing
     * After 1♥️-1♠️-1NT, 2 way checkback is on with similar structure as after

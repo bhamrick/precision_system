@@ -1,4 +1,4 @@
-# After 1♦️\*
+# After 1:diamonds:\*
 
 * 1♥️ 4+♥️s, one round forcing. With 4/4 spades and hearts and less than game
   forcing values, responder typically starts with 1♥️.

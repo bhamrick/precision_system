@@ -1,4 +1,4 @@
-# After 2♥️/2♠️
+# After 2:hearts:/2:spades:
 
 Here M refers to the opened major and X refers to any other suit. A feature
 is generally an ace or king, and never shortage. The meanings of maximum and
