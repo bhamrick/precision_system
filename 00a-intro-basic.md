@@ -1,3 +1,6 @@
+This is the Basic Chart system. We also have an [Open Chart system](open.md)
+for events where it is allowed.
+
 # Guiding Principles
 
 * Open light. Bidding is more fun than not bidding, and also comes with

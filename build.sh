@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-pandoc -f markdown -t gfm -o README.md --toc -s $(cat contents.txt)
+pandoc -f markdown -t gfm -o basic.md --toc -s $(cat contents-basic.txt)
+pandoc -f markdown -t gfm -o open.md --toc -s $(cat contents-open.txt)
