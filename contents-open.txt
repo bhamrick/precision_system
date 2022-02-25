@@ -1,12 +1,12 @@
-00-intro.md
-01-openings.md
+00b-intro-open.md
+01b-openings-open.md
 02-one-club.md
-03-one-diamond.md
+03b-one-diamond-open.md
 04-one-major.md
 05-weak-notrump.md
 06-strong-notrump.md
-07-two-clubs.md
-08-two-diamonds.md
+07b-two-clubs-open.md
+08b-two-diamonds-open.md
 09-two-major.md
 10-two-notrump.md
 11-high-openings.md

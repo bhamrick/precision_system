@@ -249,3 +249,29 @@ After the auction (1♣️) P (P), even if opener doesn't have clubs, responder
 generally will.
 
 Double is takeout.
+
+## Interference over artificial asks
+
+This includes:
+
+* 1NT (11-13)-2♦️
+* 2♣️-2♦️ (both versions)
+* 2♦️-2♥️ (open chart)
+* 2♦️-2NT (basic chart)
+
+If they double, then redouble is an offer to play, and otherwise we ignore the
+double.
+
+If they overcall with the lowest step, then pass take the place of the first
+step (the bid that the opponents made), double shows a hand with reasonable
+penalty prospects, and other bids retain their meaning.
+
+If they overcall with the second step and we are in a game force, e.g.
+1NT-2♦️-(2♠️), pass shows the first step with double being the next ask, and
+double shows the second step (which is the bid the opponents took), with
+subsequent bids having the same meaning.
+
+If they overcall with the second step and we are in an invitational sequence,
+then pass includes most mininums, and other calls are natural.
+
+If they overcall higher, then all calls are natural.
