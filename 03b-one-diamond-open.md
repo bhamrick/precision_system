@@ -111,3 +111,21 @@
         * Opener reevaluates their hand in the context of shortness and decides
           whether to bid game or not. Maximal hands may choose to play game even
           with wasted values.
+
+## If opponents interefere
+
+The general principle is that responder assumes that opener has a balanced
+hand, and opener can generally find a way to clarify at a reasonable level if
+that's not the case.
+
+* After 1♦️-(1♥️ or 1♠️), double is negative generally showing 4 cards in the other
+  major, and bids are natural.
+* After 1♦️-(1NT or 2♣️), the 1NT systems for the possible balanced range are on.
+  This means that we use the 14-16 systems if 1♦️ was in 1st or 2nd seat nonvul,
+  and the 11-13 systems otherwise. In the case of a 1NT overcall, double is
+  penalty.
+* After 1♦️-(2♦️/2♥️/2♠️), Lebensohl is on and all calls are as if the auction
+  started with a 1NT opening with the opposite range. Double is negative, as it
+  also is after 1NT opening.
+* For higher interference, again treat it the same as if the auction started
+  with 1NT, but Lebensohl will not be available.
