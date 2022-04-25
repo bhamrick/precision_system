@@ -4,7 +4,7 @@
     -   [Notrump ranges](#notrump-ranges)
 -   [After 1:clubs:!](#after-1clubs)
 -   [After 1:diamonds:\*](#after-1diamonds)
-    -   [If opponents interefere](#if-opponents-interefere)
+    -   [If opponents interfere](#if-opponents-interfere)
 -   [After 1:hearts:/1:spades:](#after-1hearts1spades)
 -   [After 11-13 1NT](#after-11-13-1nt)
     -   [Runouts after 1NT-X or
@@ -313,7 +313,7 @@ on in all cases, but for the 2NT bids we use Puppet Stayman.
             and decides whether to bid game or not. Maximal hands may
             choose to play game even with wasted values.
 
-## If opponents interefere
+## If opponents interfere
 
 The general principle is that responder assumes that opener has a
 balanced hand, and opener can generally find a way to clarify at a
