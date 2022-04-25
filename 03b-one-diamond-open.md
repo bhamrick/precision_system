@@ -112,7 +112,7 @@
           whether to bid game or not. Maximal hands may choose to play game even
           with wasted values.
 
-## If opponents interefere
+## If opponents interfere
 
 The general principle is that responder assumes that opener has a balanced
 hand, and opener can generally find a way to clarify at a reasonable level if
