@@ -51,6 +51,6 @@
     * 4♥️! Maximum, 5+ cards in the other major
 * 2♠️!/3♥️! Weak jump shift: Less than constructive values with the suit bid.
 * 3♣️! Weak jump shift: Less than constructive values and long clubs.
-* 3♦️! Weak jump shift: Less than constructive values and long clubs.
+* 3♦️! Weak jump shift: Less than constructive values and long diamonds.
 * 3♥️!/3♠️! Preemptive raise. Less than invitational with 4+ card support.
 * 4♥️!/4♠️! To play, no slam interest.
