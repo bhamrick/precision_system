@@ -10,11 +10,14 @@
     * 1NT Balanced outside of the 1NT opening range, denies 4♠️s
     * 2♣️ 5/4+ in the minors, unbalanced. Either minor may be longer.
     * 2♦️ 6+♦️s without significant extra strength.
+        * 2♠️! Artificial game force, "third suit forcing"
     * 2♥️ 4♥️s any strength
 * 1♠️ 4+♠️s, one round forcing.
     * 1NT Balanced outside of the 1NT opening range.
     * 2♣️ 5/4+ in the minors, unbalanced. Either minor may be longer.
     * 2♦️ 6+♦️s without significant extra strength.
+        * 3♣️! General force, "third suit forcing". Note that 2♥️ is left
+          available to show 5♠️s and 4♥️s nonforcing.
     * 2♥️! Exactly 3=4=5=1, any strength
         * 2NT! Artificial invitational+ asking bid
             * 3♣️! Any minimum
