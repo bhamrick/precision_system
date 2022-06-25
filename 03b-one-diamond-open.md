@@ -12,7 +12,7 @@
     * 2♣️! 5+♣️s, 4♠️s, generally unbalanced.
         * 2♦️! Artificial game force (fourth suit forcing)
     * 2♦️ 6+♦️s, not 4♥️s
-        * 2♠️! Artificial game force
+        * 2♠️! Artificial game force, "third suit forcing"
     * 2♥️ 4♥️s, generally without a 6 card minor.
     * 2♠️! Supermax with ♥️ support
     * 2NT! 5-5 minors
@@ -23,6 +23,8 @@
       singleton ♠️. Always has at least 2♦️s.
     * 2♣️! 5+♣️s, 4♥️s, generally unbalanced.
     * 2♦️ 6+♦️s, not 4♠️s
+        * 3♣️! General force, "third suit forcing". Note that 2♥️ is left
+          available to show 5♠️s and 4♥️s nonforcing.
     * 2♥️! Exactly 3=4=5=1, any strength
         * 2NT! Artificial invitational+ asking bid
             * 3♣️! Any minimum

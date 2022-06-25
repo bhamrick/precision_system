@@ -206,7 +206,7 @@ on in all cases, but for the 2NT bids we use Puppet Stayman.
     -   2♣️! 5+♣️s, 4♠️s, generally unbalanced.
         -   2♦️! Artificial game force (fourth suit forcing)
     -   2♦️ 6+♦️s, not 4♥️s
-        -   2♠️! Artificial game force
+        -   2♠️! Artificial game force, “third suit forcing”
     -   2♥️ 4♥️s, generally without a 6 card minor.
     -   2♠️! Supermax with ♥️ support
     -   2NT! 5-5 minors
@@ -217,6 +217,8 @@ on in all cases, but for the 2NT bids we use Puppet Stayman.
         contains a singleton ♠️. Always has at least 2♦️s.
     -   2♣️! 5+♣️s, 4♥️s, generally unbalanced.
     -   2♦️ 6+♦️s, not 4♠️s
+        -   3♣️! General force, “third suit forcing”. Note that 2♥️ is
+            left available to show 5♠️s and 4♥️s nonforcing.
     -   2♥️! Exactly 3=4=5=1, any strength
         -   2NT! Artificial invitational+ asking bid
             -   3♣️! Any minimum
@@ -391,7 +393,8 @@ reasonable level if that’s not the case.
 -   2♠️!/3♥️! Weak jump shift: Less than constructive values with the
     suit bid.
 -   3♣️! Weak jump shift: Less than constructive values and long clubs.
--   3♦️! Weak jump shift: Less than constructive values and long clubs.
+-   3♦️! Weak jump shift: Less than constructive values and long
+    diamonds.
 -   3♥️!/3♠️! Preemptive raise. Less than invitational with 4+ card
     support.
 -   4♥️!/4♠️! To play, no slam interest.
