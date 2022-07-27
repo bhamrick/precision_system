@@ -397,10 +397,24 @@ far. They all start with a 1:spades: bid, then after relayer continues with 1NT
 
 * 2:clubs: shows the heart-diamond two suiter, as previously mentioned
 * 2:diamonds: shows 4 hearts
+    * After 2:hearts:, 2:spades: shows also 4 spades
+    * Full shapes are shown in numerical order
+        * 2:spades: then 3:clubs: shows 4=4=2=3
+        * 2:spades: then 3:diamonds: shows 4=4=3=2
+        * 2NT shows 2=4=3=4
+        * 3:clubs: shows 2=4=4=3
+        * 3:diamonds: shows 3=4=2=4
+        * 3:hearts: shows 3=4=4=2
 * 2:hearts: shows 4 spades and less than 4 hearts
+    * After 2:spades:, full shapes are shown in numerical order
+        * 2NT shows 4=2=3=4
+        * 3:clubs: shows 4=2=4=3
+        * 3:diamonds: shows 4=3=2=4
+        * 3:hearts: shows 4=3=4=2
 * 2:spades: shows 4333 with a 4 card major
     * After the 2NT continuation, 3:clubs: shows 4 hearts and 3:diamonds: shows
-      4 spades.
+      4 spades, which is also numerical order.
+* The remaining 4 shapes are shown in numerical order.
 * 2NT shows 2=3=4=4
 * 3:clubs: shows 3=2=4=4
 * 3:diamonds: shows 3=3=3=4
