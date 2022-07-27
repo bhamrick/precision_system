@@ -503,26 +503,26 @@ Our bids as relay responder would be:
 
 * 1NT showing hearts, then over 2:clubs:
 * 2:diamonds: showing clubs and not a reverser, then over 2:hearts:
-* 2:spades: showing high shortage, then over 2NT
-* 3:clubs: showing 5431 pattern (exactly 1=5=3=4), then over 3:diamonds:
-* 3:hearts: showing 0-2 controls, then over 3:spades:
-* 4NT showing 2 controls, the heart king, the club king, the heart queen, the
+* 2NT showing the short legged two suiter with high shortage, then over 3:clubs:
+* 3:diamonds: showing 5431 pattern (exactly 1=5=3=4), then over 3:hearts:
+* 3:spades: showing 0-2 controls, then over 4:clubs:
+* 5:diamonds: showing 2 controls, the heart king, the club king, the heart queen, the
   club queen, and denying the diamond queen.
 
 In that last step, our lower possible responses were
 
-* 3NT would show 1 control
-* 4:clubs: would show 2 controls and deny the ace and king of hearts (it is not
+* 4:diamonds: would show 1 control
+* 4:hearts: would show 2 controls and deny the ace and king of hearts (it is not
   possible to have both with only 2 controls)
-* 4:diamonds: would show 2 controls and the ace or king of hearts and deny the
+* 4:spades: would show 2 controls and the ace or king of hearts and deny the
   next honor. If the heart honor was the ace, the next honor would be the queen
   of hearts. If the heart honor was the king, the next honor would be the king
   of clubs. Since we actually have the heart king, for future steps we'll
   simplify and assume that we scan for the king of clubs next, but in theory
   there are two possible honor holdings for all the higher steps as well.
-* 4:hearts: would show 2 controls, the heart king, the club king, and deny the
+* 4NT would show 2 controls, the heart king, the club king, and deny the
   heart queen.
-* 4:spades: would show 2 controls, the heart king, the club king, the heart
+* 5:clubs: would show 2 controls, the heart king, the club king, the heart
   queen, and deny the club king.
 
 # Ending the relay
