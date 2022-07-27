@@ -451,6 +451,9 @@ higher ranking suit first. For example, if relay responder has shown a 4=5=2=2
 hand, the scan order is hearts, then spades, then diamonds, then clubs.
 Singletons and voids are never scanned.
 
+Remember that if you had to lie about your shape, use the order for the shape
+that you showed rather than the shape that you actually have.
+
 ## Scanning for aces and kings
 
 The first scan is a bit special, as some information about the ace and king
