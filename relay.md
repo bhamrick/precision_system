@@ -493,6 +493,10 @@ have the queen. After they have scanned for queens, they repeat the scan for
 jacks, and so on. In practice, there will essentially never be enough space for
 scans lower than jacks.
 
+Since there is no equivalent of the control step for queens, relay responder
+scans *all* their suits other than singletons and voids for these honors, and
+does *not* skip to jacks after showing their last queen.
+
 ## An example
 
 Suppose we have the following hand
