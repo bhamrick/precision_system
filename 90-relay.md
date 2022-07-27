@@ -367,6 +367,8 @@ then the rest of the bids zoom to showing exact shape with low shortage. Since
 there is no "equal shortage" step, the high shortage and low shortage variants
 of the same shape end up at different bids.
 
+### Showing the full pattern
+
 The order of patterns is:
 
 1. 4441 pattern

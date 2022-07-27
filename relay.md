@@ -21,6 +21,7 @@
         -   [Two suiters](#two-suiters)
     -   [Showing three suited hands](#showing-three-suited-hands)
         -   [Showing shortness](#showing-shortness-1)
+        -   [Showing the full pattern](#showing-the-full-pattern-1)
     -   [Showing flat hands](#showing-flat-hands)
 -   [Showing controls](#showing-controls)
 -   [Showing honors](#showing-honors)
@@ -421,6 +422,8 @@ After the initial three suited showing, the first step shows high
 shortage, and then the rest of the bids zoom to showing exact shape with
 low shortage. Since there is no “equal shortage” step, the high shortage
 and low shortage variants of the same shape end up at different bids.
+
+### Showing the full pattern
 
 The order of patterns is:
 
