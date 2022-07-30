@@ -595,3 +595,59 @@ signoff.
 No matter how high the auction gets, the first step is a relay unless it is
 3NT. Relayer must take care that they will be able to sign off at an
 appropriate level and strain after a worst case response.
+
+# Interference
+
+## Direct interference over 1:clubs:
+
+After 1:clubs:-(1:diamonds:) and 1:clubs-(X), relays are on and we use two
+negative ranges (X or XX shows a semi-positive).
+
+After 1:clubs:-(1:hearts:), relays are on with X taking the place of 1:hearts:,
+and pass shows any negative.
+
+After 1:clubs:-(1:spades:) or higher, relays are off.
+
+## Interference after the relay starts
+
+Relays are on if it is possible to use the standard track, and the relay bids
+have no changed meaning. This takes a few different forms depending on what the
+exact interference is.
+
+### If the opponents double
+
+If the opponents double, then all relay bids are the same. If the next person
+to act is the relayer, pass and redouble are natural relay breaks. Pass
+suggests playing the current contract if relay responder has a suitable hand
+relative to what has already been shown, and redouble demands to play the
+current contract. To continue relaying, the relayer bids the next step up as if
+the double didn't happen.
+
+If the opponents double and the next person to act is the relay responder, they
+bid as if the double did not happen.
+
+### If the opponents bid one step up
+
+If the opponents bid one step up, and the relayer is the next to act, then pass
+continues the relay, with the same responses as if the overcall didn't happen,
+and double taking the place of the first step. Double by relayer is penalty.
+
+If the relay responder is the next to act, then pass and double are both the
+first step (which the opponents bid), with double being a more suitable hand
+for defending of the two.  Other bids are as normal. Relayer continues with the
+next step if they want to continue relaying.
+
+### If the opponents bid two steps up
+
+If the opponents bid two steps up, and the relayer is the next to act, then
+relays are **off**, reverting to natural bidding. As we are in a game force,
+doubles are generally penalty.
+
+If the opponents bid two steps up, and relay responder is the next to act,
+then relays are **on**, with pass being the first step (double continuing the
+relay), and double being the second step. All other bids are as normal.
+
+### If the opponents bid higher
+
+If the opponents bid higher than two steps up, relays are **off**, reverting to
+natural bidding. As we are in a game force, doubles are generally penalty.
