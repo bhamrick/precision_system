@@ -711,8 +711,7 @@ responder, they bid as if the double did not happen.
 
 If the opponents bid one step up, and the relayer is the next to act,
 then pass continues the relay, with the same responses as if the
-overcall didn’t happen, and double taking the place of the first step.
-Double by relayer is penalty.
+overcall didn’t happen. Double by relayer is penalty.
 
 If the relay responder is the next to act, then pass and double are both
 the first step (which the opponents bid), with double being a more
@@ -722,11 +721,11 @@ Relayer continues with the next step if they want to continue relaying.
 ### If the opponents bid two steps up
 
 If the opponents bid two steps up, and the relayer is the next to act,
-then relays are **off**, reverting to natural bidding. As we are in a
-game force, doubles are generally penalty.
+then relays are on, with pass being the relay and double taking the
+place of the first step (which is the bid that the opponents made).
 
 If the opponents bid two steps up, and relay responder is the next to
-act, then relays are **on**, with pass being the first step (double
+act, then relays are on, with pass being the first step (double
 continuing the relay), and double being the second step. All other bids
 are as normal.
 
