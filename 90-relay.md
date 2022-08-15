@@ -294,6 +294,11 @@ If equal shortness was not shown:
 location of the shortest suit (the 1). 7231 means that the higher of the two
 remaining suits is 2 cards and the lower is 3 cards, and vice versa for 7321.
 
+**Special case:** When an unpassed responder shows the 7321 pattern via 3NT
+here, they are still completely unlimited, and so the 3NT bid is **forcing**.
+In all other cases, a responder with a super-positive will zoom past 3NT,
+meaning that a minimal relayer can safely pass.
+
 If equal shortness was shown (via 3:clubs:):
 
 * 3:hearts: shows 6322 pattern.
