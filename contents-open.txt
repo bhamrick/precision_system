@@ -1,6 +1,6 @@
 00b-intro-open.md
 01b-openings-open.md
-02-one-club.md
+02b-one-club-open.md
 03b-one-diamond-open.md
 04-one-major.md
 05-weak-notrump.md

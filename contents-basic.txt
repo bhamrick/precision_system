@@ -1,6 +1,6 @@
 00a-intro-basic.md
 01a-openings-basic.md
-02-one-club.md
+02a-one-club-basic.md
 03a-one-diamond-basic.md
 04-one-major.md
 05-weak-notrump.md
