@@ -65,10 +65,14 @@
     * After opener has shown their shape, a responder interested in slam may bid
       the cheapest bid (or 4♣️ if the cheapest bid would be 3NT) to ask for
       controls (A=2, K=1):
-        * Step 1: 0 controls
-        * Step 2: 1 control
-        * Step 3: 2 controls
+        * Step 1: 0-2 controls
+        * Step 2: 3 control
+        * Step 3: 4 controls
         * etc
+    * After the control step, further relays are denial cue bidding in the same
+      manner as in the 1♣️ relay. The possibility of a 0 control opening is
+      similarly ignored, and if we get into that situation we have to pretend
+      the hand has 1 control and hope that we can get away with the lie.
     * If the opponents double 2♦️, relays are on and redouble is an attempt to
       cash in.
     * Relays are off over any other interference over 2♦️. Doubles are penalty as

@@ -161,36 +161,15 @@ on in all cases, but for the 2NT bids we use Puppet Stayman.
     -   3♣️ 22+ 4+♣️s, forcing
     -   3♦️ 22+ 4+♦️s, forcing
     -   3NT 26-27 balanced, stayman and transfers available
--   1♥️ 8+ 5+♥️s
--   1♠️ 8+ 5+♠️s
--   1NT! 8-11 or 14+ balanced. After this opening, the first SRAAACA
-    range is 8-9, then 10-11, then 14-16, etc.
-    -   2♣️! Asks for 4 card major. To keep auctions lower, use transfer
-        responses:
-        -   2♦️! 4♥️s
-        -   2♥️! 4♠️s
-        -   2♠️! No 4 card major
-            -   2NT “sets” notrump and asks for SRAAACA.
-        -   Opener can complete the transfer to confirm the fit, which
-            initiates SRAAACA, or bid another suit naturally to ask for
-            support.
--   2♣️ 8+ 5+♣️s
--   2♦️ 8+ 5+♦️s
--   2♥️! 8+ 4441 singleton heart
-    -   After any of the 4441 responses, a bid below game by opener
-        creates agreement on the strain and responder will bid according
-        to SRAAACA.
--   2♠️! 8+ 4441 singleton spade
--   2NT! 12-13 balanced
-    -   3♣️! Asks for 4 card major. Similar to the 1NT response, use
-        transfer respones here as well.
-        -   3♦️! 4♥️s
-        -   3♥️! 4♠️s
-        -   3♠️! No 4 card major
-        -   Completing the transfer at 3 level shows slam interest.
-            Opener should jump to game with minimum hands and a fit.
--   3♣️! 8+ 4441 singleton club
--   3♦️! 8+ 4441 singleton diamond
+-   Higher responses are positives following the [relay
+    structure](relay.md). The meanings of the initial responses are
+    repeated here.
+-   1♥️ 4+♠️ not flat except for 3 suiter with short ♥️s
+-   1♠️ Flat or ♥️+♦️ two-suiter
+-   1NT 4+♥️, either ♥️ one-suiter or ♥️+♣️
+-   2♣️ ♦️ one-suiter or 3 suiter with short major
+-   2♦️ ♣️ one-suiter
+-   Higher Various ♣️+♦️ two-suiters with zoom
 
 # After 1:diamonds:\*
 
@@ -473,10 +452,15 @@ reasonable level if that’s not the case.
     -   After opener has shown their shape, a responder interested in
         slam may bid the cheapest bid (or 4♣️ if the cheapest bid would
         be 3NT) to ask for controls (A=2, K=1):
-        -   Step 1: 0 controls
-        -   Step 2: 1 control
-        -   Step 3: 2 controls
+        -   Step 1: 0-2 controls
+        -   Step 2: 3 control
+        -   Step 3: 4 controls
         -   etc
+    -   After the control step, further relays are denial cue bidding in
+        the same manner as in the 1♣️ relay. The possibility of a 0
+        control opening is similarly ignored, and if we get into that
+        situation we have to pretend the hand has 1 control and hope
+        that we can get away with the lie.
     -   If the opponents double 2♦️, relays are on and redouble is an
         attempt to cash in.
     -   Relays are off over any other interference over 2♦️. Doubles are
