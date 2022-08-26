@@ -256,6 +256,19 @@ on in all cases, but for the 2NT bids we use Puppet Stayman.
 -   2NT Balanced, invitational to game.
 -   3♣️! Weak jump-shift: Less than constructive values and long clubs.
 -   3♦️! Preemptive, usually responder needs their own ♦️ suit.
+-   3NT To play unless opener has extreme shape. Typically will be a
+    very flat hand with game forcing values.
+-   4NT Quant invite across opener’s range for balanced hands, and not a
+    hand suitable for a natural suit response. This typically means no 4
+    card major and no 5 card minor, leaving the shapes 33(43) and
+    (32)44.
+    -   5♣️/5♦️ Weak hand that has doubts about playing 4NT.
+    -   5♥️/5♠️ Good hand (accepting the slam invite) with an unbalanced
+        shape with the corresponding minor.
+    -   6♣️/6♦️ More emphatic rejection of 6NT compared to 5♥️/♠️, but
+        still theoretically possible to be overruled.
+-   5NT (Forcing) Quant invite to grand, not suitable for a suit
+    response. Similar continuations as for 4NT but a level higher.
 -   If responder is a passed hand, all responses are nonforcing.
 -   After a 1♦️-1M-1NT sequence showing 11-13 balanced, [2 way
     checkback](https://www.youtube.com/watch?v=5_RD8ycgRT8) is on
