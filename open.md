@@ -23,9 +23,8 @@
 -   [Over Interference](#over-interference)
     -   [Direct interference over
         1:clubs:!](#direct-interference-over-1clubs)
-        -   [Over 1X (or Double)](#over-1x-or-double)
-        -   [Over 2X](#over-2x)
-        -   [Over 3X and higher](#over-3x-and-higher)
+        -   [Over 1:clubs:-(X)](#over-1clubs-x)
+        -   [After an overcall](#after-an-overcall)
     -   [After 1M-(?)](#after-1m-)
 -   [Defensive Conventions](#defensive-conventions)
     -   [Defense against 1NT](#defense-against-1nt)
@@ -771,46 +770,34 @@ natural and artificial, we will avoid ascribing any artificial meaning
 to bids that would show the same suits as the opponents, with the
 understanding that it is unlikely that we will want to make such a bid.
 
-### Over 1X (or Double)
+### Over 1:clubs:-(X)
 
--   Pass! 0-4
--   X!/XX! 5-7 “semipositive”
--   All others natural and game forcing
+System is on with a split negative range, redouble shows a semipositive.
 
-### Over 2X
+### After an overcall
 
--   All non-jump bids transfer to next higher suit, including double
--   Opener will generally accept the transfer with the following
-    exceptions
-    -   Jumping in the transfered-to suit shows a very strong hand
-        (wanting to play game across a random semipositive hand).
-    -   Bidding another suit shows 0-1 cards in the transfer suit and a
-        good alternative suit (5 cards at worst, ideally a good 6).
-    -   Bidding a suit instead of accepting a transfer to no trump shows
-        a distributional hand with the suit bid.
-    -   Jumping in another suit shows both a very strong hand and lack
-        of support.
--   Responder continuing after any of these rebids is game forcing.
+The meanings of our calls (other than double) do not change based on
+what the overcall was, so typically only a subset of these options will
+be available.
 
-Because the 1♣️ opener could have any distribution, transfers with a
-weak hand should generally have at least a 6 card suit. However, if
-responder transfers and then continues with a game forcing auction, it
-may be only 5 cards, and opener should be sure to show real support
-after accepting the transfer if they have 3.
-
-Example: After 1♣️!-(2♥️)
-
--   X! Transfer to spades
--   2♠️! Transfer to no trump
--   2NT! Transfer to clubs
--   3♣️! Transfer to diamonds
--   3♦️! Transfer to hearts
-
-### Over 3X and higher
-
--   All bids are natural and game forcing
--   Double is game forcing values without clear direction, more penalty
-    oriented at higher levels
+-   Bidding a suit at the 1 level shows a semipositive and a 4 card
+    suit. Responder is expected to transfer to 2 level with a 5 card
+    suit, so this will typically be exactly a 4 card suit.
+-   Doubling at the 1 level shows a semipositive with a suit that wasn’t
+    possible to show with a bid.
+-   1NT through 2:hearts: are transfers, with similar continuations to
+    Jacoby transfers across a 17-19 NT opening.
+-   2:spades: is a balanced game force.
+-   2NT is also a balanced game force, but with concentration of
+    strength in the suit overcalled or shown by the overcall.
+-   Doubling an overcall between 1NT and 2NT shows a hand that would
+    have been shown by the bid that was doubled For example,
+    1:clubs:-(1NT)-X is a transfer to clubs.
+-   Bidding a suit at the 3 level is a natural game force.
+-   Doubling an overcall at 3 level or higher shows game forcing values
+    without clear direction. It is not a penalty double, but as the
+    overcall gets higher the expectation is that it gets converted for
+    penalty more often.
 
 ## After 1M-(?)
 
