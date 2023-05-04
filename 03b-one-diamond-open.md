@@ -37,7 +37,10 @@
 * 1NT Nonforcing
     * Pass Very common, even with a club-primary hand.
     * 2♣️/2♦️ Generally 6 cards in the bid minor.
-* 2♣️! 11+ points, 5+♣️s. Generally denies a 4 card major unless game forcing values. Somewhat artificial rebids:
+* 2♣️! 11+ points, 5+♣️s. May be done with only 4 clubs and a slam-seeking hand
+  to get information about opener's hand rather than immediately jumping to
+  quant. Generally denies a 4 card major unless game forcing values.  Somewhat
+  artificial rebids:
     * 2♦️! Any minimum without 4♥️s
         * 2♥️! Artificial game force, asks for clarification.
             * Opener continus by bidding shape naturally.
@@ -64,7 +67,8 @@
     * After maximum responses, the auction is forcing to game and continuations
       are natural. If responder confirms a fit below game level that implies
       slam interest (fast arrival).
-* 2♦️! 11+ points, 5+♦️s, similar rebids as after 2♣️:
+* 2♦️! 11+ points, 5+♦️s, may be done with only 4 diamonds and a slam seeking
+  hand. Similar rebids as after 2♣️:
     * 2♥️! Any minimum
         * 2♠️! Artificial game force
             * Opener continues bidding shape naturally
