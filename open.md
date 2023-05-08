@@ -772,7 +772,8 @@ understanding that it is unlikely that we will want to make such a bid.
 
 ### Over 1:clubs:-(X)
 
-System is on with a split negative range, redouble shows a semipositive.
+System is on with a split negative range. Redouble shows a semipositive,
+roughly 5-7 but judgment is expected.
 
 ### After an overcall
 
